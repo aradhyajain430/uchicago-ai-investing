@@ -59,5 +59,130 @@
     "status": "archived",
     "bytes": 59871,
     "path": "research\\sources\\amodei_essay.html"
+  },
+  {
+    "id": "cohr_fy26_10k",
+    "url": "https://www.sec.gov/Archives/edgar/data/820318/000082031826000020/iivi-20260630.htm",
+    "status": "archived",
+    "bytes": 2678929,
+    "path": "research\\sources\\cohr_fy26_10k.html"
+  },
+  {
+    "id": "cohr_full_release",
+    "url": "https://ir.coherent.com/news-releases/news-release-details/coherent-corp-reports-fourth-quarter-and-full-year-fiscal-2026",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='ir.coherent.com', port=443): Read timed out. (read timeout=35)"
+  },
+  {
+    "id": "cohr_transcript",
+    "url": "https://www.fool.com/earnings/call-transcripts/2026/08/19/coherent-cohr-q4-2026-earnings-call-transcript/",
+    "status": "archived",
+    "bytes": 531582,
+    "path": "research\\sources\\cohr_transcript.html"
+  },
+  {
+    "id": "cohr_price",
+    "url": "https://stockanalysis.com/stocks/cohr/history/",
+    "status": "archived",
+    "bytes": 119459,
+    "path": "research\\sources\\cohr_price.html"
+  },
+  {
+    "id": "lite_fy26_10k",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026057358/lite-20260627.htm",
+    "status": "archived",
+    "bytes": 3332072,
+    "path": "research\\sources\\lite_fy26_10k.html"
+  },
+  {
+    "id": "lite_price",
+    "url": "https://stockanalysis.com/stocks/lite/history/",
+    "status": "archived",
+    "bytes": 118781,
+    "path": "research\\sources\\lite_price.html"
+  },
+  {
+    "id": "lite_forecast",
+    "url": "https://stockanalysis.com/stocks/lite/forecast/",
+    "status": "archived",
+    "bytes": 170434,
+    "path": "research\\sources\\lite_forecast.html"
+  },
+  {
+    "id": "lite_stats",
+    "url": "https://stockanalysis.com/stocks/lite/statistics/",
+    "status": "archived",
+    "bytes": 119513,
+    "path": "research\\sources\\lite_stats.html"
+  },
+  {
+    "id": "cohr_stats",
+    "url": "https://stockanalysis.com/stocks/cohr/statistics/",
+    "status": "archived",
+    "bytes": 121470,
+    "path": "research\\sources\\cohr_stats.html"
+  },
+  {
+    "id": "mrvl_stats",
+    "url": "https://stockanalysis.com/stocks/mrvl/statistics/",
+    "status": "archived",
+    "bytes": 121306,
+    "path": "research\\sources\\mrvl_stats.html"
+  },
+  {
+    "id": "fn_stats",
+    "url": "https://stockanalysis.com/stocks/fn/statistics/",
+    "status": "archived",
+    "bytes": 121445,
+    "path": "research\\sources\\fn_stats.html"
+  },
+  {
+    "id": "lite_fy25_release",
+    "url": "https://investor.lumentum.com/financial-news-releases/news-details/2025/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2025-Results/",
+    "status": "archived",
+    "bytes": 520717,
+    "path": "research\\sources\\lite_fy25_release.html"
+  },
+  {
+    "id": "treasury_2026",
+    "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+    "status": "archived",
+    "bytes": 1166803,
+    "path": "research\\sources\\treasury_2026.html"
+  },
+  {
+    "id": "damodaran_erp",
+    "url": "https://pages.stern.nyu.edu/adamodar/New_Home_Page/home.htm",
+    "status": "archived",
+    "bytes": 17136,
+    "path": "research\\sources\\damodaran_erp.html"
+  },
+  {
+    "id": "meta_q2_2026",
+    "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Second-Quarter-2026-Results/default.aspx",
+    "status": "archived",
+    "bytes": 181919,
+    "path": "research\\sources\\meta_q2_2026.html"
+  },
+  {
+    "id": "amazon_q2_2026",
+    "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Second-Quarter-Results/default.aspx",
+    "status": "archived",
+    "bytes": 647411,
+    "path": "research\\sources\\amazon_q2_2026.html"
+  },
+  {
+    "id": "cohr_sec_release",
+    "url": "https://www.sec.gov/Archives/edgar/data/820318/000119312526346860/d128030dex991.htm",
+    "status": "archived",
+    "bytes": 356427,
+    "path": "research\\sources\\cohr_sec_release.html"
+  },
+  {
+    "id": "mrvl_q2_fy27",
+    "url": "https://investor.marvell.com/news-events/press-releases/detail/1031/marvell-technology-inc-reports-second-quarter-of-fiscal-year-2027-financial-results",
+    "status": "archived",
+    "bytes": 529465,
+    "path": "research\\sources\\mrvl_q2_fy27.html"
   }
 ]

@@ -1,0 +1,810 @@
+[
+  {
+    "text": "Accessibility",
+    "href": "#"
+  },
+  {
+    "text": "Help",
+    "href": "https://support.fool.com/"
+  },
+  {
+    "text": "About Us",
+    "href": "/about/"
+  },
+  {
+    "text": "\u25b2 S&P 500 + ---% | \u25b2 Stock Advisor + ---% Join The Motley Fool",
+    "href": "https://www.fool.com/mms/mark/e-foolcom-sa-top-nav-returns"
+  },
+  {
+    "text": "",
+    "href": "/"
+  },
+  {
+    "text": "All Services",
+    "href": "/services/"
+  },
+  {
+    "text": "Stock Advisor",
+    "href": "/services/stock-advisor/"
+  },
+  {
+    "text": "Epic",
+    "href": "/services/epic/"
+  },
+  {
+    "text": "Epic Plus",
+    "href": "/services/epic-plus/"
+  },
+  {
+    "text": "Fool Portfolios",
+    "href": "/services/fool-portfolios/"
+  },
+  {
+    "text": "Fool One",
+    "href": "/services/one/"
+  },
+  {
+    "text": "Compare",
+    "href": "/services/compare/"
+  },
+  {
+    "text": "All Podcasts",
+    "href": "/podcasts/"
+  },
+  {
+    "text": "Hidden Gems Investing Podcast",
+    "href": "/podcasts/hidden-gems/"
+  },
+  {
+    "text": "Rule Breaker Investing Podcast",
+    "href": "/podcasts/rule-breaker-investing/"
+  },
+  {
+    "text": "Fool Community Foundation",
+    "href": "https://foolfoundation.org/"
+  },
+  {
+    "text": "About Us",
+    "href": "/about/"
+  },
+  {
+    "text": "Investing Philosophy",
+    "href": "/about/investing-philosophy/"
+  },
+  {
+    "text": "Contact Us",
+    "href": "/contact/customer-service/"
+  },
+  {
+    "text": "Motley Fool Money",
+    "href": "/money/"
+  },
+  {
+    "text": "Reviews",
+    "href": "/about/reviews/"
+  },
+  {
+    "text": "Newsroom",
+    "href": "/contact/newsroom/"
+  },
+  {
+    "text": "Our Authors",
+    "href": "/author/"
+  },
+  {
+    "text": "Trending News",
+    "href": "/trending-news/"
+  },
+  {
+    "text": "Stock Market News",
+    "href": "/investing-news/"
+  },
+  {
+    "text": "Market Movers",
+    "href": "/market-movers/"
+  },
+  {
+    "text": "Tech Stock News",
+    "href": "/tech-stock-news/"
+  },
+  {
+    "text": "Market Trends",
+    "href": "/market-trends/"
+  },
+  {
+    "text": "Crypto News",
+    "href": "/crypto-news/"
+  },
+  {
+    "text": "Stock Market Indexes Today",
+    "href": "/markets/"
+  },
+  {
+    "text": "Most Active Stocks Today",
+    "href": "/markets/most-active-stocks/"
+  },
+  {
+    "text": "Today's Biggest Stock Gainers",
+    "href": "/markets/top-stock-gainers/"
+  },
+  {
+    "text": "Today's Biggest Stock Losers",
+    "href": "/markets/top-stock-losers/"
+  },
+  {
+    "text": "Stock Quotes by Exchange",
+    "href": "/quote/"
+  },
+  {
+    "text": "Market Research",
+    "href": "/research/"
+  },
+  {
+    "text": "\ud83d\udce8 Breakfast News",
+    "href": "/investing/breakfast-news/"
+  },
+  {
+    "text": "Top Stocks to Buy Now",
+    "href": "/investing/top-stocks-to-buy-and-hold/"
+  },
+  {
+    "text": "Best ETFs to Buy",
+    "href": "/investing/how-to-invest/etfs/etfs-to-buy/"
+  },
+  {
+    "text": "Best AI Stocks",
+    "href": "/investing/stock-market/market-sectors/information-technology/ai-stocks/"
+  },
+  {
+    "text": "Best Growth Stocks",
+    "href": "/investing/stock-market/types-of-stocks/growth-stocks/"
+  },
+  {
+    "text": "Dividend Kings",
+    "href": "/investing/stock-market/types-of-stocks/dividend-stocks/dividend-kings/"
+  },
+  {
+    "text": "Best Index Funds",
+    "href": "/investing/how-to-invest/index-funds/best-index-funds/"
+  },
+  {
+    "text": "Next Cryptos to Explode",
+    "href": "/investing/stock-market/market-sectors/financials/cryptocurrency-stocks/next-crypto-to-explode/"
+  },
+  {
+    "text": "Technology",
+    "href": "/investing/stock-market/market-sectors/information-technology/"
+  },
+  {
+    "text": "Energy",
+    "href": "/investing/stock-market/market-sectors/energy/"
+  },
+  {
+    "text": "Real Estate",
+    "href": "/investing/stock-market/market-sectors/real-estate-investing/"
+  },
+  {
+    "text": "Healthcare",
+    "href": "/investing/stock-market/market-sectors/healthcare/"
+  },
+  {
+    "text": "Consumer Goods",
+    "href": "/investing/stock-market/market-sectors/consumer-staples/"
+  },
+  {
+    "text": "Materials",
+    "href": "/investing/stock-market/market-sectors/materials/"
+  },
+  {
+    "text": "Industrials",
+    "href": "/investing/stock-market/market-sectors/industrials/"
+  },
+  {
+    "text": "How to Invest Money",
+    "href": "/investing/how-to-invest/"
+  },
+  {
+    "text": "What to Invest In",
+    "href": "/investing/how-to-invest/what-to-invest-in/"
+  },
+  {
+    "text": "How to Invest in Stocks",
+    "href": "/investing/how-to-invest/stocks/"
+  },
+  {
+    "text": "How to Invest in ETFs",
+    "href": "/investing/how-to-invest/etfs/"
+  },
+  {
+    "text": "How to Invest in Index Funds",
+    "href": "/investing/how-to-invest/index-funds/"
+  },
+  {
+    "text": "How to Invest in Bonds",
+    "href": "/investing/how-to-invest/bonds/"
+  },
+  {
+    "text": "Financial Dictionary",
+    "href": "/terms/"
+  },
+  {
+    "text": "Stock Market 101",
+    "href": "/investing/stock-market/"
+  },
+  {
+    "text": "Types of Stocks",
+    "href": "/investing/stock-market/types-of-stocks/"
+  },
+  {
+    "text": "Stock Market Sectors",
+    "href": "/investing/stock-market/market-sectors/"
+  },
+  {
+    "text": "Stock Market Indexes",
+    "href": "/investing/stock-market/indexes/"
+  },
+  {
+    "text": "What Are Stock Splits?",
+    "href": "/terms/s/stock-split/"
+  },
+  {
+    "text": "What Is Compound Interest?",
+    "href": "/investing/how-to-invest/stocks/compound-interest-accounts/"
+  },
+  {
+    "text": "After Hours Trading",
+    "href": "/terms/a/after-hours-trading/"
+  },
+  {
+    "text": "How to Buy Stock",
+    "href": "/investing/how-to-invest/stocks/how-to-buy-stock/"
+  },
+  {
+    "text": "Best Brokers for Beginners",
+    "href": "https://www.fool.com/money/buying-stocks/best-online-stock-brokers-for-beginners/"
+  },
+  {
+    "text": "Best Brokerage Accounts",
+    "href": "https://www.fool.com/money/buying-stocks/"
+  },
+  {
+    "text": "Good Time to Buy Stocks",
+    "href": "/investing/how-to-invest/stocks/good-time-to-buy-stocks/"
+  },
+  {
+    "text": "How Many Shares to Buy?",
+    "href": "/investing/how-to-invest/stocks/how-many-shares-buy-stock/"
+  },
+  {
+    "text": "Portfolio Diversification",
+    "href": "/investing/how-to-invest/portfolio-diversification/"
+  },
+  {
+    "text": "How to Invest $100",
+    "href": "/investing/how-to-invest/how-to-invest-100-dollars/"
+  },
+  {
+    "text": "Magnificent Seven Companies",
+    "href": "/investing/how-to-invest/stocks/magnificent-seven/"
+  },
+  {
+    "text": "Warren Buffett Investments",
+    "href": "/investing/how-to-invest/famous-investors/warren-buffett-investments/"
+  },
+  {
+    "text": "Investing in ChatGPT",
+    "href": "/investing/stock-market/market-sectors/information-technology/ai-stocks/chatgpt/"
+  },
+  {
+    "text": "Investing in SpaceX",
+    "href": "/investing/how-to-invest/stocks/how-to-invest-in-spacex-stock/"
+  },
+  {
+    "text": "Investing in OpenAI",
+    "href": "/investing/how-to-invest/stocks/how-to-invest-in-openai-stock/"
+  },
+  {
+    "text": "Investing in Nvidia",
+    "href": "/investing/how-to-invest/stocks/how-to-invest-in-nvidia-stock/"
+  },
+  {
+    "text": "Investing in Databricks",
+    "href": "/investing/how-to-invest/stocks/how-to-invest-in-databricks/"
+  },
+  {
+    "text": "Retirement News",
+    "href": "/retirement-news/"
+  },
+  {
+    "text": "Retirement 101",
+    "href": "/retirement/"
+  },
+  {
+    "text": "Types of Retirement Accounts",
+    "href": "/retirement/plans/"
+  },
+  {
+    "text": "How to Contribute to 401k/IRA?",
+    "href": "/retirement/plans/401k/contribute-to-401k-and-ira/"
+  },
+  {
+    "text": "Strategies to Save for Retirement",
+    "href": "/retirement/strategies/"
+  },
+  {
+    "text": "Asset Allocation for My Age",
+    "href": "/retirement/strategies/asset-allocation-by-age/"
+  },
+  {
+    "text": "Best IRA Brokerage Accounts",
+    "href": "/money/buying-stocks/best-ira-accounts/"
+  },
+  {
+    "text": "Social Security 101",
+    "href": "/retirement/social-security/"
+  },
+  {
+    "text": "How to Maximize Social Security?",
+    "href": "/retirement/social-security/how-to-maximize-social-security/"
+  },
+  {
+    "text": "Full Retirement Age",
+    "href": "/retirement/social-security/full-retirement-age/"
+  },
+  {
+    "text": "COLAs",
+    "href": "/retirement/social-security/colas/"
+  },
+  {
+    "text": "Calculate Your SS Benefits",
+    "href": "/retirement/social-security/benefits-formula/"
+  },
+  {
+    "text": "Collecting Spousal Benefits",
+    "href": "/retirement/social-security/spousal-benefits/"
+  },
+  {
+    "text": "Maximize Social Security Benefit",
+    "href": "/retirement/social-security/how-to-maximize-social-security/"
+  },
+  {
+    "text": "How Much Do I Need to Retire?",
+    "href": "/retirement/how-much-do-i-need/"
+  },
+  {
+    "text": "When To Retire",
+    "href": "/retirement/strategies/when-can-i-retire/"
+  },
+  {
+    "text": "401(k) Plans",
+    "href": "/retirement/plans/401k/"
+  },
+  {
+    "text": "403(b) Plans",
+    "href": "/retirement/plans/403b/"
+  },
+  {
+    "text": "Roth IRA Plans",
+    "href": "/retirement/plans/roth-ira/"
+  },
+  {
+    "text": "IRA Plans",
+    "href": "/retirement/plans/ira/"
+  },
+  {
+    "text": "HSA Plans",
+    "href": "/retirement/plans/hsa/"
+  },
+  {
+    "text": "Complete Retirement Guide",
+    "href": "/retirement/complete-guide/"
+  },
+  {
+    "text": "Best & Worst States to Retire",
+    "href": "/research/best-states-to-retire/"
+  },
+  {
+    "text": "Average Retirement Savings",
+    "href": "/research/average-retirement-savings/"
+  },
+  {
+    "text": "Moving for Retirement",
+    "href": "/retirement/relocation/"
+  },
+  {
+    "text": "Healthcare in Retirement",
+    "href": "/retirement/healthcare-in-retirement/"
+  },
+  {
+    "text": "Understanding Taxes in Retirement",
+    "href": "/retirement/taxes/"
+  },
+  {
+    "text": "401(k) Minimum Distributions",
+    "href": "/retirement/plans/401k/required-minimum-distributions/"
+  },
+  {
+    "text": "Best Credit Cards",
+    "href": "https://www.fool.com/money/credit-cards/best-credit-cards/"
+  },
+  {
+    "text": "Compare Credit Cards",
+    "href": "https://www.fool.com/money/credit-cards/compare-cards/"
+  },
+  {
+    "text": "Credit Card Reviews",
+    "href": "https://www.fool.com/money/credit-cards/reviews/"
+  },
+  {
+    "text": "Credit Card Guides and Tools",
+    "href": "https://www.fool.com/money/credit-cards/guides-tools/"
+  },
+  {
+    "text": "Best Savings Accounts",
+    "href": "https://www.fool.com/money/banks/savings-accounts/best-savings-accounts/"
+  },
+  {
+    "text": "Bank Reviews",
+    "href": "https://www.fool.com/money/banks/reviews/"
+  },
+  {
+    "text": "Best Personal Loans",
+    "href": "https://www.fool.com/money/personal-loans/"
+  },
+  {
+    "text": "Personal Loan Reviews",
+    "href": "https://www.fool.com/money/personal-loans/reviews/"
+  },
+  {
+    "text": "Best Mortgage Lenders",
+    "href": "https://www.fool.com/money/mortgages/best-mortgage-lenders/"
+  },
+  {
+    "text": "Current Mortgage Rates",
+    "href": "https://www.fool.com/money/mortgages/rates/"
+  },
+  {
+    "text": "Mortgage Lender Reviews",
+    "href": "https://www.fool.com/money/mortgages/reviews/"
+  },
+  {
+    "text": "Guide to Mortgages",
+    "href": "https://www.fool.com/money/mortgages/"
+  },
+  {
+    "text": "Auto Insurance",
+    "href": "https://www.fool.com/money/insurance/auto/"
+  },
+  {
+    "text": "Home Insurance",
+    "href": "https://www.fool.com/money/insurance/homeowners/"
+  },
+  {
+    "text": "Life Insurance",
+    "href": "https://www.fool.com/money/insurance/life/"
+  },
+  {
+    "text": "Top 10 Stocks to Buy Now \u203a",
+    "href": "https://www.fool.com/mms/mark/e-sa-bbn-bn"
+  },
+  {
+    "text": "Top 10 Stocks to Buy Now \u203a",
+    "href": "https://www.fool.com/mms/mark/e-sa-bbn-bn"
+  },
+  {
+    "text": "[email\u00a0protected]",
+    "href": "/cdn-cgi/l/email-protection"
+  },
+  {
+    "text": "",
+    "href": "/coverage/filings/2026/09/04/coherent-cfo-sherri-luther-sells-3-000-shares/"
+  },
+  {
+    "text": "Jack Delaney",
+    "href": "/author/20688/"
+  },
+  {
+    "text": "Coherent CFO Sherri Luther Sells 3,000 Shares",
+    "href": "/coverage/filings/2026/09/04/coherent-cfo-sherri-luther-sells-3-000-shares/"
+  },
+  {
+    "text": "",
+    "href": "/investing/2026/08/20/2-optical-stocks-to-buy-after-tuesday-s-selloff/"
+  },
+  {
+    "text": "Daniel Sparks",
+    "href": "/author/2104/"
+  },
+  {
+    "text": "2 Optical Stocks to Buy After Tuesday's Sell-Off",
+    "href": "/investing/2026/08/20/2-optical-stocks-to-buy-after-tuesday-s-selloff/"
+  },
+  {
+    "text": "",
+    "href": "/earnings/call-transcripts/2026/09/17/innate-pharma-ipha-q2-2026-earnings-call-transcript/"
+  },
+  {
+    "text": "Motley Fool Transcribing",
+    "href": "/author/20032/"
+  },
+  {
+    "text": "Innate Pharma (IPHA) Q2 2026 Earnings Call Transcript",
+    "href": "/earnings/call-transcripts/2026/09/17/innate-pharma-ipha-q2-2026-earnings-call-transcript/"
+  },
+  {
+    "text": "",
+    "href": "/earnings/call-transcripts/2026/09/17/lennar-len-q3-2026-earnings-call-transcript/"
+  },
+  {
+    "text": "Motley Fool Transcribing",
+    "href": "/author/20032/"
+  },
+  {
+    "text": "Lennar (LEN) Q3 2026 Earnings Call Transcript",
+    "href": "/earnings/call-transcripts/2026/09/17/lennar-len-q3-2026-earnings-call-transcript/"
+  },
+  {
+    "text": "",
+    "href": "/earnings/call-transcripts/2026/09/17/high-tide-hiti-q3-2026-earnings-call-transcript/"
+  },
+  {
+    "text": "Motley Fool Transcribing",
+    "href": "/author/20032/"
+  },
+  {
+    "text": "High Tide (HITI) Q3 2026 Earnings Call Transcript",
+    "href": "/earnings/call-transcripts/2026/09/17/high-tide-hiti-q3-2026-earnings-call-transcript/"
+  },
+  {
+    "text": "",
+    "href": "/earnings/call-transcripts/2026/09/17/aeluma-almu-q4-2026-earnings-call-transcript/"
+  },
+  {
+    "text": "Motley Fool Transcribing",
+    "href": "/author/20032/"
+  },
+  {
+    "text": "Aeluma (ALMU) Q4 2026 Earnings Call Transcript",
+    "href": "/earnings/call-transcripts/2026/09/17/aeluma-almu-q4-2026-earnings-call-transcript/"
+  },
+  {
+    "text": "Terms and Conditions",
+    "href": "https://www.fool.com/legal/terms-and-conditions/fool-rules"
+  },
+  {
+    "text": "disclosure policy",
+    "href": "https://www.fool.com/legal/fool-disclosure-policy/"
+  },
+  {
+    "text": "Coherent NYSE : COHR $308.39 ( +4.19% ) +$12.41",
+    "href": "/quote/nyse/cohr/"
+  },
+  {
+    "text": "Get Access",
+    "href": "https://www.fool.com/mms/mark/op-sa-v-sp-wdg-art"
+  },
+  {
+    "text": "View Premium Services",
+    "href": "/services/?ftm_cam=footer-services-sitewide-prospects"
+  },
+  {
+    "text": "",
+    "href": "/"
+  },
+  {
+    "text": "Facebook",
+    "href": "https://www.facebook.com/themotleyfool"
+  },
+  {
+    "text": "Twitter",
+    "href": "https://x.com/TheMotleyFool"
+  },
+  {
+    "text": "LinkedIn",
+    "href": "https://www.linkedin.com/company/the-motley-fool/"
+  },
+  {
+    "text": "Pinterest",
+    "href": "https://www.pinterest.com/themotleyfool/"
+  },
+  {
+    "text": "YouTube",
+    "href": "https://www.youtube.com/user/TheMotleyFool"
+  },
+  {
+    "text": "Instagram",
+    "href": "https://www.instagram.com/themotleyfoolofficial/"
+  },
+  {
+    "text": "TikTok",
+    "href": "https://www.tiktok.com/@themotleyfoolofficial"
+  },
+  {
+    "text": "Xignite",
+    "href": "https://xignite.com/"
+  },
+  {
+    "text": "Polygon.io",
+    "href": "https://polygon.io/"
+  },
+  {
+    "text": "About Us",
+    "href": "/about/"
+  },
+  {
+    "text": "Careers",
+    "href": "https://careers.fool.com/"
+  },
+  {
+    "text": "Market Research",
+    "href": "/research/"
+  },
+  {
+    "text": "Newsroom",
+    "href": "/contact/newsroom/"
+  },
+  {
+    "text": "Contact",
+    "href": "/legal/contact-us/"
+  },
+  {
+    "text": "Advertise",
+    "href": "/cdn-cgi/l/email-protection#19787d7077686c706b707c6a597f767675377a7674"
+  },
+  {
+    "text": "All Services",
+    "href": "/services/"
+  },
+  {
+    "text": "Stock Advisor",
+    "href": "/services/stock-advisor/"
+  },
+  {
+    "text": "Epic",
+    "href": "/services/epic/"
+  },
+  {
+    "text": "Epic Plus",
+    "href": "/services/epic-plus/"
+  },
+  {
+    "text": "Fool Portfolios",
+    "href": "/services/fool-portfolios/"
+  },
+  {
+    "text": "Fool One",
+    "href": "/services/one/"
+  },
+  {
+    "text": "Motley Fool Money",
+    "href": "/money/"
+  },
+  {
+    "text": "The Motley Fool Australia",
+    "href": "https://www.fool.com.au/"
+  },
+  {
+    "text": "The Motley Fool Canada",
+    "href": "https://www.fool.ca"
+  },
+  {
+    "text": "CAPS Stock Ratings",
+    "href": "https://caps.fool.com/"
+  },
+  {
+    "text": "Discussion Boards",
+    "href": "https://discussion.fool.com/"
+  },
+  {
+    "text": "Calculators",
+    "href": "/calculators/index/"
+  },
+  {
+    "text": "Financial Dictionary",
+    "href": "/terms/"
+  },
+  {
+    "text": "Motley Fool Asset Management",
+    "href": "/affiliates/mfam/"
+  },
+  {
+    "text": "Motley Fool Ventures",
+    "href": "/affiliates/ventures/"
+  },
+  {
+    "text": "Fool Community Foundation",
+    "href": "https://foolfoundation.org/"
+  },
+  {
+    "text": "Become an Affiliate Partner",
+    "href": "/affiliates/"
+  },
+  {
+    "text": "Become an Advertising Partner",
+    "href": "/advertising/"
+  },
+  {
+    "text": "Terms of Use",
+    "href": "/legal/terms-and-conditions/fool-rules/"
+  },
+  {
+    "text": "Privacy Policy",
+    "href": "/legal/privacy-statement/"
+  },
+  {
+    "text": "Disclosure Policy",
+    "href": "/legal/fool-disclosure-policy/"
+  },
+  {
+    "text": "Accessibility Policy",
+    "href": "/legal/accessibility-policy/"
+  },
+  {
+    "text": "Copyright, Trademark and Patent Information",
+    "href": "/legal/stuff-we-own/"
+  },
+  {
+    "text": "Terms and Conditions",
+    "href": "/legal/terms-and-conditions/"
+  },
+  {
+    "text": "Do Not Sell My Personal Information",
+    "href": "/data-protection/ccpa-update/"
+  },
+  {
+    "text": "Arrow down S&P 500 7,633.28 -0.1% -4.48",
+    "href": "/quote/snpindex/^gspc/"
+  },
+  {
+    "text": "Arrow down DJI 51,638.05 -0.3% -139.99",
+    "href": "/quote/djindices/^dji/"
+  },
+  {
+    "text": "Arrow up NASDAQ 26,471.88 +0.2% +53.58",
+    "href": "/quote/nasdaqindex/^ixic/"
+  },
+  {
+    "text": "Arrow up Bitcoin $80,102.00 +4.8% +$3,669.82",
+    "href": "/quote/crypto/btc/"
+  },
+  {
+    "text": "Arrow down SPCX $152.78 -1.3% -$2.03",
+    "href": "/quote/nasdaq/spcx/"
+  },
+  {
+    "text": "Arrow down AAPL $335.07 -0.6% -$1.94",
+    "href": "/quote/nasdaq/aapl/"
+  },
+  {
+    "text": "Arrow up AMZN $252.99 +0.7% +$1.80",
+    "href": "/quote/nasdaq/amzn/"
+  },
+  {
+    "text": "Arrow up GOOG $351.25 +2.2% +$7.57",
+    "href": "/quote/nasdaq/goog/"
+  },
+  {
+    "text": "Arrow down META $675.02 -1.1% -$7.29",
+    "href": "/quote/nasdaq/meta/"
+  },
+  {
+    "text": "Arrow down MSFT $494.23 -0.7% -$3.53",
+    "href": "/quote/nasdaq/msft/"
+  },
+  {
+    "text": "Arrow up NVDA $219.59 +0.1% +$0.25",
+    "href": "/quote/nasdaq/nvda/"
+  },
+  {
+    "text": "Arrow up TSLA $366.83 +0.2% +$0.63",
+    "href": "/quote/nasdaq/tsla/"
+  },
+  {
+    "text": "Motley Fool Transcribing",
+    "href": "/author/20032/"
+  },
+  {
+    "text": "+ Fool.com on",
+    "href": "https://www.google.com/preferences/source?q=fool.com"
+  }
+]

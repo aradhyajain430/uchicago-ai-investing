@@ -1,0 +1,386 @@
+[
+  {
+    "text": "Skip to main content",
+    "href": "#main"
+  },
+  {
+    "text": "",
+    "href": "/"
+  },
+  {
+    "text": "Help",
+    "href": "/help/"
+  },
+  {
+    "text": "Log In",
+    "href": "/login/"
+  },
+  {
+    "text": "Sign Up",
+    "href": "/pro/"
+  },
+  {
+    "text": "Home",
+    "href": "/"
+  },
+  {
+    "text": "Watchlist",
+    "href": "/watchlist/"
+  },
+  {
+    "text": "Stocks",
+    "href": "/stocks/"
+  },
+  {
+    "text": "Stock Screener",
+    "href": "/stocks/screener/"
+  },
+  {
+    "text": "Stock Exchanges",
+    "href": "/list/exchanges/"
+  },
+  {
+    "text": "Comparison Tool",
+    "href": "/stocks/compare/"
+  },
+  {
+    "text": "Earnings Calendar",
+    "href": "/stocks/earnings-calendar/"
+  },
+  {
+    "text": "By Industry",
+    "href": "/stocks/industry/"
+  },
+  {
+    "text": "Stock Lists",
+    "href": "/list/"
+  },
+  {
+    "text": "Top Stocks",
+    "href": "/analysts/top-stocks/"
+  },
+  {
+    "text": "Corporate Actions",
+    "href": "/actions/"
+  },
+  {
+    "text": "IPOs",
+    "href": "/ipos/"
+  },
+  {
+    "text": "Recent IPOs",
+    "href": "/ipos/"
+  },
+  {
+    "text": "IPO Calendar",
+    "href": "/ipos/calendar/"
+  },
+  {
+    "text": "IPO Lockups",
+    "href": "/ipos/lockups/"
+  },
+  {
+    "text": "IPO Statistics",
+    "href": "/ipos/statistics/"
+  },
+  {
+    "text": "IPO News",
+    "href": "/ipos/news/"
+  },
+  {
+    "text": "IPO Screener",
+    "href": "/ipos/screener/"
+  },
+  {
+    "text": "ETFs",
+    "href": "/etf/"
+  },
+  {
+    "text": "ETF Screener",
+    "href": "/etf/screener/"
+  },
+  {
+    "text": "Comparison Tool",
+    "href": "/etf/compare/"
+  },
+  {
+    "text": "New Launches",
+    "href": "/etf/list/new/"
+  },
+  {
+    "text": "ETF Providers",
+    "href": "/etf/provider/"
+  },
+  {
+    "text": "Analysts",
+    "href": "/analysts/"
+  },
+  {
+    "text": "News",
+    "href": "/news/"
+  },
+  {
+    "text": "Trending",
+    "href": "/trending/"
+  },
+  {
+    "text": "Private Companies",
+    "href": "/private/"
+  },
+  {
+    "text": "Technical Chart",
+    "href": "/chart/"
+  },
+  {
+    "text": "Fundamental Chart",
+    "href": "/fundamental-chart/"
+  },
+  {
+    "text": "Market Movers",
+    "href": "/markets/gainers/"
+  },
+  {
+    "text": "Top Gainers",
+    "href": "/markets/gainers/"
+  },
+  {
+    "text": "Top Losers",
+    "href": "/markets/losers/"
+  },
+  {
+    "text": "Most Active",
+    "href": "/markets/active/"
+  },
+  {
+    "text": "Premarket",
+    "href": "/markets/premarket/"
+  },
+  {
+    "text": "After Hours",
+    "href": "/markets/afterhours/"
+  },
+  {
+    "text": "Market Heatmap",
+    "href": "/markets/heatmap/"
+  },
+  {
+    "text": "Market Newsletter",
+    "href": "/subscribe/"
+  },
+  {
+    "text": "Stock Analysis Pro",
+    "href": "/pro/"
+  },
+  {
+    "text": "Tools",
+    "href": "/tools/"
+  },
+  {
+    "text": "Overview",
+    "href": "/stocks/lite/"
+  },
+  {
+    "text": "Financials",
+    "href": "/stocks/lite/financials/"
+  },
+  {
+    "text": "Forecast",
+    "href": "/stocks/lite/forecast/"
+  },
+  {
+    "text": "Statistics",
+    "href": "/stocks/lite/statistics/"
+  },
+  {
+    "text": "Dividends",
+    "href": "/stocks/lite/dividend/"
+  },
+  {
+    "text": "History",
+    "href": "/stocks/lite/history/"
+  },
+  {
+    "text": "Profile",
+    "href": "/stocks/lite/company/"
+  },
+  {
+    "text": "Chart",
+    "href": "/chart/LITE/"
+  },
+  {
+    "text": "S&P Global Market Intelligence",
+    "href": "https://www.spglobal.com/market-intelligence/en?utm_source=stockanalysis.com&utm_medium=referral"
+  },
+  {
+    "text": "S&P Global Market Intelligence",
+    "href": "https://www.spglobal.com/market-intelligence/en?utm_source=stockanalysis.com&utm_medium=referral"
+  },
+  {
+    "text": "Data Sources",
+    "href": "/data-sources/"
+  },
+  {
+    "text": "Report a data error",
+    "href": "/report-data-error/#url=%2Fstocks%2Flite%2Fhistory%2F&ticker=LITE"
+  },
+  {
+    "text": "Stock Analysis Pro Upgrade now for unlimited access to all data and tools.",
+    "href": "/pro/"
+  },
+  {
+    "text": "Market Newsletter Get a daily email with the top market news in bullet point format.",
+    "href": "/subscribe/"
+  },
+  {
+    "text": "Why optical stocks Lumentum and Coherent were the day's biggest gainers",
+    "href": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440"
+  },
+  {
+    "text": "Lumentum stock rises as Wall Street bets on AI optical networks",
+    "href": "https://invezz.com/news/2026/09/16/lumentum-stock-rises-as-wall-street-bets-on-ai-optical-networks/"
+  },
+  {
+    "text": "Lumentum Stock Leads the S&P 500 While Corning Can't Keep Up",
+    "href": "https://www.barrons.com/articles/lumentum-corning-stock-networking-112f9a13"
+  },
+  {
+    "text": "Lumentum Experts to Share Insights at ECOC 2026",
+    "href": "https://www.businesswire.com/news/home/20260915270131/en/Lumentum-Experts-to-Share-Insights-at-ECOC-2026/"
+  },
+  {
+    "text": "Lumentum Holdings Transcript: Citi\u2019s 2026 Global TMT Conference",
+    "href": "/stocks/lite/transcripts/740220-citi-s-2026-global-tmt-conference/"
+  },
+  {
+    "text": "Hidden China risks are emerging in America's multibillion-dollar AI data center boom",
+    "href": "https://www.cnbc.com/2026/09/03/us-ai-data-centers-china-supply-chain.html"
+  },
+  {
+    "text": "Buy these stocks to ride the next big AI wave \u2014 connectivity, analyst says",
+    "href": "https://www.marketwatch.com/story/buy-these-stocks-to-ride-the-next-big-ai-wave-connectivity-analyst-says-196241b2"
+  },
+  {
+    "text": "Lumentum initiated with a Buy at Deutsche Bank",
+    "href": "https://www.tipranks.com/news/the-fly/lumentum-initiated-with-a-buy-at-deutsche-bank-thefly-news"
+  },
+  {
+    "text": "22 best-performing stocks of August, as the software industry continues its recovery",
+    "href": "https://www.marketwatch.com/story/22-best-performing-stocks-of-august-as-the-software-industry-continues-its-recovery-88e432bf"
+  },
+  {
+    "text": "Lumentum initiated with an Outperform at Evercore ISI",
+    "href": "https://www.tipranks.com/news/the-fly/lumentum-initiated-with-an-outperform-at-evercore-isi-thefly-news"
+  },
+  {
+    "text": "More News",
+    "href": "/stocks/lite/"
+  },
+  {
+    "text": "4.9 6.7K",
+    "href": "https://apps.apple.com/us/app/stock-analysis-app/id6751272467"
+  },
+  {
+    "text": "4.9 7.2K",
+    "href": "https://play.google.com/store/apps/details?id=com.stockanalysis.app"
+  },
+  {
+    "text": "Stocks",
+    "href": "/stocks/"
+  },
+  {
+    "text": "IPOs",
+    "href": "/ipos/"
+  },
+  {
+    "text": "ETFs",
+    "href": "/etf/"
+  },
+  {
+    "text": "Private Companies",
+    "href": "/private/"
+  },
+  {
+    "text": "Stock Analysis Pro",
+    "href": "/pro/"
+  },
+  {
+    "text": "Free Newsletter",
+    "href": "/subscribe/"
+  },
+  {
+    "text": "Get Support",
+    "href": "/support/"
+  },
+  {
+    "text": "Install The App",
+    "href": "/app/"
+  },
+  {
+    "text": "Login",
+    "href": "/login/"
+  },
+  {
+    "text": "Create Account",
+    "href": "/create-account/"
+  },
+  {
+    "text": "Changelog",
+    "href": "/changelog/"
+  },
+  {
+    "text": "Data Sources",
+    "href": "/data-sources/"
+  },
+  {
+    "text": "Advertise",
+    "href": "/advertise/"
+  },
+  {
+    "text": "Help Center",
+    "href": "/help/"
+  },
+  {
+    "text": "About",
+    "href": "/about/"
+  },
+  {
+    "text": "Contact Us",
+    "href": "/contact/"
+  },
+  {
+    "text": "Terms of Use",
+    "href": "/terms-of-use/"
+  },
+  {
+    "text": "Privacy Policy",
+    "href": "/privacy-policy/"
+  },
+  {
+    "text": "Affiliate Program",
+    "href": "/affiliates/"
+  },
+  {
+    "text": "",
+    "href": "https://www.facebook.com/stockanalysisoff/"
+  },
+  {
+    "text": "",
+    "href": "https://x.com/stock_analysisx"
+  },
+  {
+    "text": "",
+    "href": "https://www.linkedin.com/company/stock-analysis/"
+  },
+  {
+    "text": "",
+    "href": "https://www.threads.com/@stockanalysis_com"
+  },
+  {
+    "text": "",
+    "href": "https://apps.apple.com/us/app/stock-analysis-app/id6751272467"
+  },
+  {
+    "text": "",
+    "href": "https://play.google.com/store/apps/details?id=com.stockanalysis.app"
+  }
+]

@@ -1,5 +1,7 @@
 # Investment decision checkpoint
 
+> **SUPERSEDED RESEARCH.** The user selected Lumentum and a 3–6 month fear-unwind thesis. Use [CURRENT_THESIS.md](CURRENT_THESIS.md) and the LITE files in `deliverables/`. The FN analysis below is retained only as research history, not the current recommendation.
+
 The initial LONG hypothesis did not pass the model. The working recommendation is SHORT Fabrinet, with a 3–12 month horizon and a 12-month DCF target rounded to $275 versus the September 17, 2026 close of $380.92.
 
 This is an expectation-and-cash-conversion thesis. It does not require a collapse in AI infrastructure demand. The base forecast permits about 29% revenue growth in FY2027, then moderates growth by end market. Cash tax expense, capital spending and working capital are explicit.

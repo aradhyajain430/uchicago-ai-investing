@@ -1,5 +1,21 @@
 # UChicago AI-Enabled Investing Competition
 
+## Current deliverables: Lumentum valuation
+
+- [Editable DCF workbook](deliverables/LITE_Bull_Case_DCF.xlsx)
+- [Ten-slide DCF section](deliverables/LITE_DCF_Slides.pptx)
+- [Presenter Q&A and above-consensus flags](deliverables/LITE_DCF_QA.md)
+
+The current thesis horizon is **3–6 months**: a potential fear-discount reversal if earnings execution holds. The workbook explicitly separates that trading hypothesis from long-term intrinsic value. The conservative component WACC and mature-margin fade do **not** produce a bullish intrinsic value at the reference price; this result is disclosed, not overridden to hit a target. The $1,149 external analyst average is a 12-month cross-check.
+
+Build the final model and slides with `.venv\Scripts\python.exe src\finish_lite_dcf.py`. The engine is `src/lite_dcf_model.py`. `src/recalculate_and_export.ps1` recalculates in Excel and exports the PowerPoint PDF if desktop Office is available.
+
+Earlier FN research, `src/model.py`, `src/build_workbook.py`, and `src/build_lumentum.py` are superseded exploratory drafts. Do not run the earlier builders for the final deliverables. The user's `slideshow/Round1_Pitch.pptx` template is preserved separately.
+
+---
+
+## Earlier research context (superseded)
+
 Investment research, an editable DCF workbook, and a 10-slide presentation for the September 18, 2026 competition. Investment horizon: 3–12 months.
 
 ## Build status

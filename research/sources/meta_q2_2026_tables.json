@@ -1,0 +1,1373 @@
+[
+  [
+    [
+      "",
+      "Three Months Ended June 30,",
+      "",
+      "% Change"
+    ],
+    [
+      "In millions, except percentages and per share amounts",
+      "2026",
+      "",
+      "2025",
+      ""
+    ],
+    [
+      "Revenue",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a060,801",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a047,516",
+      "",
+      "28\u00a0%"
+    ],
+    [
+      "Costs and expenses",
+      "42,026",
+      "",
+      "27,075",
+      "",
+      "55\u00a0%"
+    ],
+    [
+      "Income from operations",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a018,775",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a020,441",
+      "",
+      "(8)\u00a0%"
+    ],
+    [
+      "Operating margin",
+      "31\u00a0%",
+      "",
+      "43\u00a0%",
+      "",
+      ""
+    ],
+    [
+      "Provision for income taxes",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02,908",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02,197",
+      "",
+      "32\u00a0%"
+    ],
+    [
+      "Effective tax rate",
+      "16\u00a0%",
+      "",
+      "11\u00a0%",
+      "",
+      ""
+    ],
+    [
+      "Net income",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a015,848",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a018,337",
+      "",
+      "(14)\u00a0%"
+    ],
+    [
+      "Diluted earnings per share (EPS)",
+      "$\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06.18",
+      "",
+      "$\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a07.14",
+      "",
+      "(13)\u00a0%"
+    ]
+  ],
+  [
+    [
+      "____________________________________"
+    ],
+    [
+      "(1) For more information on our free cash flow non-GAAP financial measure, see the sections entitled \"Non-GAAP Financial Measures\" and \"Reconciliation of GAAP to Non-GAAP Results\" in this press release."
+    ]
+  ],
+  [
+    [
+      "META PLATFORMS, INC."
+    ],
+    [
+      "CONDENSED CONSOLIDATED STATEMENTS OF INCOME"
+    ],
+    [
+      "(In millions, except per share amounts)"
+    ],
+    [
+      "(Unaudited)"
+    ],
+    [
+      ""
+    ],
+    [
+      "",
+      "Three Months Ended June 30,",
+      "",
+      "Six Months Ended June 30,"
+    ],
+    [
+      "",
+      "2026",
+      "",
+      "2025",
+      "",
+      "2026",
+      "",
+      "2025"
+    ],
+    [
+      "Revenue",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a060,801",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a047,516",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0117,111",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a089,830"
+    ],
+    [
+      "Costs and expenses:",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cost of revenue",
+      "11,330",
+      "",
+      "8,491",
+      "",
+      "21,549",
+      "",
+      "16,063"
+    ],
+    [
+      "Research and development",
+      "21,656",
+      "",
+      "12,942",
+      "",
+      "39,354",
+      "",
+      "25,092"
+    ],
+    [
+      "Marketing and sales",
+      "3,431",
+      "",
+      "2,979",
+      "",
+      "6,339",
+      "",
+      "5,735"
+    ],
+    [
+      "General and administrative (1)",
+      "5,609",
+      "",
+      "2,663",
+      "",
+      "8,222",
+      "",
+      "4,943"
+    ],
+    [
+      "Total costs and expenses",
+      "42,026",
+      "",
+      "27,075",
+      "",
+      "75,464",
+      "",
+      "51,833"
+    ],
+    [
+      "Income from operations",
+      "18,775",
+      "",
+      "20,441",
+      "",
+      "41,647",
+      "",
+      "37,997"
+    ],
+    [
+      "Interest and other income (expense), net",
+      "(19)",
+      "",
+      "93",
+      "",
+      "(1,139)",
+      "",
+      "919"
+    ],
+    [
+      "Income before income taxes",
+      "18,756",
+      "",
+      "20,534",
+      "",
+      "40,508",
+      "",
+      "38,916"
+    ],
+    [
+      "Provision (benefit) for income taxes",
+      "2,908",
+      "",
+      "2,197",
+      "",
+      "(2,113)",
+      "",
+      "3,935"
+    ],
+    [
+      "Net income",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a015,848",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a018,337",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a042,621",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a034,981"
+    ],
+    [
+      "Earnings per share:",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Basic",
+      "$\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06.23",
+      "",
+      "$\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a07.28",
+      "",
+      "$\u00a0 \u00a0 \u00a0 \u00a0 \u00a016.79",
+      "",
+      "$\u00a0 \u00a0 \u00a0 \u00a0 \u00a013.87"
+    ],
+    [
+      "Diluted",
+      "$\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06.18",
+      "",
+      "$\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a07.14",
+      "",
+      "$\u00a0 \u00a0 \u00a0 \u00a0 \u00a016.62",
+      "",
+      "$\u00a0 \u00a0 \u00a0 \u00a0 \u00a013.56"
+    ],
+    [
+      "Weighted-average shares used to compute earnings per share:",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Basic",
+      "2,543",
+      "",
+      "2,518",
+      "",
+      "2,538",
+      "",
+      "2,522"
+    ],
+    [
+      "Diluted",
+      "2,566",
+      "",
+      "2,570",
+      "",
+      "2,565",
+      "",
+      "2,580"
+    ]
+  ],
+  [
+    [
+      "____________________________________"
+    ],
+    [
+      "(1) The second quarter 2026 general and administrative expenses include $2.40 billion of charges related to legal proceedings."
+    ]
+  ],
+  [
+    [
+      "META PLATFORMS, INC."
+    ],
+    [
+      "CONDENSED CONSOLIDATED BALANCE SHEETS"
+    ],
+    [
+      "(In millions)"
+    ],
+    [
+      "(Unaudited)"
+    ],
+    [
+      ""
+    ],
+    [
+      "",
+      "June 30, 2026",
+      "",
+      "December 31, 2025"
+    ],
+    [
+      "Assets",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Current assets:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cash and cash equivalents",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a015,462",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a035,873"
+    ],
+    [
+      "Marketable securities",
+      "74,798",
+      "",
+      "45,719"
+    ],
+    [
+      "Accounts receivable, net",
+      "21,752",
+      "",
+      "19,769"
+    ],
+    [
+      "Prepaid expenses and other current assets",
+      "13,463",
+      "",
+      "7,361"
+    ],
+    [
+      "Total current assets",
+      "125,475",
+      "",
+      "108,722"
+    ],
+    [
+      "Non-marketable equity investments",
+      "30,157",
+      "",
+      "27,524"
+    ],
+    [
+      "Property and equipment, net",
+      "225,724",
+      "",
+      "176,400"
+    ],
+    [
+      "Operating lease right-of-use assets",
+      "23,985",
+      "",
+      "20,404"
+    ],
+    [
+      "Goodwill",
+      "23,406",
+      "",
+      "24,534"
+    ],
+    [
+      "Other assets",
+      "21,209",
+      "",
+      "8,437"
+    ],
+    [
+      "Total assets",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0449,956",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0366,021"
+    ],
+    [
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Liabilities and stockholders' equity",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Current liabilities:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Accounts payable",
+      "$\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 15,889",
+      "",
+      "$\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 8,894"
+    ],
+    [
+      "Operating lease liabilities, current",
+      "2,425",
+      "",
+      "2,213"
+    ],
+    [
+      "Accrued expenses and other current liabilities",
+      "38,065",
+      "",
+      "30,729"
+    ],
+    [
+      "Total current liabilities",
+      "56,379",
+      "",
+      "41,836"
+    ],
+    [
+      "Operating lease liabilities, non-current",
+      "26,229",
+      "",
+      "22,940"
+    ],
+    [
+      "Long-term debt",
+      "83,664",
+      "",
+      "58,744"
+    ],
+    [
+      "Long-term income taxes",
+      "18,326",
+      "",
+      "21,005"
+    ],
+    [
+      "Other liabilities",
+      "4,137",
+      "",
+      "4,253"
+    ],
+    [
+      "Total liabilities",
+      "188,735",
+      "",
+      "148,778"
+    ],
+    [
+      "Commitments and contingencies",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Stockholders' equity:",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Common stock and additional paid-in capital",
+      "103,981",
+      "",
+      "95,793"
+    ],
+    [
+      "Accumulated other comprehensive income (loss)",
+      "(603)",
+      "",
+      "271"
+    ],
+    [
+      "Retained earnings",
+      "157,843",
+      "",
+      "121,179"
+    ],
+    [
+      "Total stockholders' equity",
+      "261,221",
+      "",
+      "217,243"
+    ],
+    [
+      "Total liabilities and stockholders' equity",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0449,956",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0366,021"
+    ]
+  ],
+  [
+    [
+      "META PLATFORMS, INC."
+    ],
+    [
+      "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS"
+    ],
+    [
+      "(In millions)"
+    ],
+    [
+      "(Unaudited)"
+    ],
+    [
+      ""
+    ],
+    [
+      "",
+      "Three Months Ended June 30,",
+      "",
+      "Six Months Ended June 30,"
+    ],
+    [
+      "",
+      "2026",
+      "",
+      "2025",
+      "",
+      "2026",
+      "",
+      "2025"
+    ],
+    [
+      "Cash flows from operating activities",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net income",
+      "$\u00a0\u00a0\u00a0\u00a015,848",
+      "",
+      "$\u00a0\u00a0\u00a018,337",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a042,621",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a034,981"
+    ],
+    [
+      "Adjustments to reconcile net income to net cash provided by operating activities:",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Depreciation and amortization",
+      "6,356",
+      "",
+      "4,342",
+      "",
+      "12,355",
+      "",
+      "8,242"
+    ],
+    [
+      "Share-based compensation",
+      "7,658",
+      "",
+      "4,834",
+      "",
+      "13,690",
+      "",
+      "8,981"
+    ],
+    [
+      "Deferred income taxes",
+      "1,445",
+      "",
+      "(1,170)",
+      "",
+      "1,568",
+      "",
+      "(2,163)"
+    ],
+    [
+      "Unrealized loss on equity investments",
+      "111",
+      "",
+      "455",
+      "",
+      "1,185",
+      "",
+      "320"
+    ],
+    [
+      "Other",
+      "(56)",
+      "",
+      "(280)",
+      "",
+      "(73)",
+      "",
+      "(376)"
+    ],
+    [
+      "Changes in assets and liabilities:",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Accounts receivable",
+      "(4,401)",
+      "",
+      "(1,338)",
+      "",
+      "(2,273)",
+      "",
+      "1,466"
+    ],
+    [
+      "Prepaid expenses and other current assets",
+      "(807)",
+      "",
+      "326",
+      "",
+      "(3,230)",
+      "",
+      "686"
+    ],
+    [
+      "Other assets",
+      "(1,454)",
+      "",
+      "(190)",
+      "",
+      "(2,535)",
+      "",
+      "(242)"
+    ],
+    [
+      "Accounts payable",
+      "584",
+      "",
+      "460",
+      "",
+      "(354)",
+      "",
+      "(574)"
+    ],
+    [
+      "Accrued expenses and other current liabilities",
+      "5,933",
+      "",
+      "(1,107)",
+      "",
+      "5,662",
+      "",
+      "(3,338)"
+    ],
+    [
+      "Other liabilities",
+      "645",
+      "",
+      "892",
+      "",
+      "(4,528)",
+      "",
+      "1,604"
+    ],
+    [
+      "Net cash provided by operating activities",
+      "31,862",
+      "",
+      "25,561",
+      "",
+      "64,088",
+      "",
+      "49,587"
+    ],
+    [
+      "Cash flows from investing activities",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Purchases of property and equipment",
+      "(30,116)",
+      "",
+      "(16,538)",
+      "",
+      "(49,113)",
+      "",
+      "(29,479)"
+    ],
+    [
+      "Purchases of marketable securities",
+      "(42,615)",
+      "",
+      "(7,746)",
+      "",
+      "(75,592)",
+      "",
+      "(19,509)"
+    ],
+    [
+      "Sales and maturities of marketable securities",
+      "24,860",
+      "",
+      "14,273",
+      "",
+      "44,036",
+      "",
+      "19,057"
+    ],
+    [
+      "Purchases of non-marketable equity investments",
+      "(1,126)",
+      "",
+      "(15,114)",
+      "",
+      "(1,670)",
+      "",
+      "(15,214)"
+    ],
+    [
+      "Payments for held-for-sale assets",
+      "(556)",
+      "",
+      "(775)",
+      "",
+      "(674)",
+      "",
+      "(775)"
+    ],
+    [
+      "Acquisitions of businesses and intangible assets",
+      "(101)",
+      "",
+      "(61)",
+      "",
+      "(474)",
+      "",
+      "(62)"
+    ],
+    [
+      "Other investing activities",
+      "1",
+      "",
+      "3",
+      "",
+      "156",
+      "",
+      "14"
+    ],
+    [
+      "Net cash used in investing activities",
+      "(49,653)",
+      "",
+      "(25,958)",
+      "",
+      "(83,331)",
+      "",
+      "(45,968)"
+    ],
+    [
+      "Cash flows from financing activities",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Taxes paid related to net share settlement of equity awards",
+      "(4,281)",
+      "",
+      "(4,110)",
+      "",
+      "(8,704)",
+      "",
+      "(8,993)"
+    ],
+    [
+      "Repurchases of Class A common stock",
+      "\u2014",
+      "",
+      "(10,167)",
+      "",
+      "\u2014",
+      "",
+      "(22,921)"
+    ],
+    [
+      "Payments for dividends and dividend equivalents",
+      "(1,353)",
+      "",
+      "(1,327)",
+      "",
+      "(2,699)",
+      "",
+      "(2,656)"
+    ],
+    [
+      "Proceeds from issuance of long-term debt, net",
+      "24,910",
+      "",
+      "\u2014",
+      "",
+      "24,910",
+      "",
+      "\u2014"
+    ],
+    [
+      "Principal payments on finance leases",
+      "(962)",
+      "",
+      "(474)",
+      "",
+      "(1,805)",
+      "",
+      "(1,225)"
+    ],
+    [
+      "Other financing activities",
+      "(2,347)",
+      "",
+      "101",
+      "",
+      "(2,288)",
+      "",
+      "323"
+    ],
+    [
+      "Net cash provided by (used in) financing activities",
+      "15,967",
+      "",
+      "(15,977)",
+      "",
+      "9,414",
+      "",
+      "(35,472)"
+    ],
+    [
+      ""
+    ],
+    [
+      "Effect of exchange rate changes on cash, cash equivalents, restricted cash, and\u00a0restricted cash equivalents",
+      "(7)",
+      "",
+      "131",
+      "",
+      "\u2014",
+      "",
+      "243"
+    ],
+    [
+      ""
+    ],
+    [
+      "Net decrease in cash, cash equivalents, restricted cash, and restricted cash\u00a0equivalents",
+      "(1,831)",
+      "",
+      "(16,243)",
+      "",
+      "(9,829)",
+      "",
+      "(31,610)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cash, cash equivalents, restricted cash, and restricted cash equivalents at beginning\u00a0of the period",
+      "31,102",
+      "",
+      "30,071",
+      "",
+      "39,100",
+      "",
+      "45,438"
+    ],
+    [
+      ""
+    ],
+    [
+      "Cash, cash equivalents, restricted cash, and restricted cash equivalents at end\u00a0of the period",
+      "$\u00a0\u00a0\u00a0\u00a029,271",
+      "",
+      "$\u00a0\u00a0\u00a013,828",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a029,271",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a013,828"
+    ],
+    [
+      ""
+    ],
+    [
+      "Reconciliation of cash, cash equivalents, restricted cash, and restricted cash\u00a0equivalents to the condensed consolidated balance sheets",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cash and cash equivalents",
+      "$\u00a0\u00a0\u00a0\u00a015,462",
+      "",
+      "$\u00a0\u00a0\u00a012,005",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a015,462",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a012,005"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Restricted cash and restricted cash equivalents, included in prepaid expenses and\u00a0other current assets",
+      "702",
+      "",
+      "161",
+      "",
+      "702",
+      "",
+      "161"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Restricted cash and restricted cash equivalents, included in other assets",
+      "13,107",
+      "",
+      "1,662",
+      "",
+      "13,107",
+      "",
+      "1,662"
+    ],
+    [
+      ""
+    ],
+    [
+      "Total cash, cash equivalents, restricted cash, and restricted cash equivalents",
+      "$\u00a0\u00a0\u00a0\u00a029,271",
+      "",
+      "$\u00a0\u00a0\u00a013,828",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a029,271",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a013,828"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Supplemental cash flow data",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cash paid for income taxes, net",
+      "$\u00a0 \u00a0 \u00a0 1,458",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a0\u00a05,096",
+      "",
+      "$\u00a0 \u00a0 \u00a0 1,999",
+      "",
+      "$\u00a0 \u00a0 \u00a0 5,544"
+    ]
+  ],
+  [
+    [
+      "Segment Information"
+    ],
+    [
+      "(In millions)"
+    ],
+    [
+      "(Unaudited)"
+    ],
+    [
+      ""
+    ],
+    [
+      "",
+      "Three Months Ended June 30,",
+      "",
+      "Six Months Ended June 30,"
+    ],
+    [
+      "",
+      "2026",
+      "",
+      "2025",
+      "",
+      "2026",
+      "",
+      "2025"
+    ],
+    [
+      "Revenue:",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Advertising",
+      "$ \u00a0 \u00a0 \u00a0 \u00a0 59,363",
+      "",
+      "$ \u00a0 \u00a0 \u00a0\u00a0 \u00a046,563",
+      "",
+      "$ \u00a0 \u00a0\u00a0 \u00a0114,387",
+      "",
+      "$ \u00a0 \u00a0 \u00a0 \u00a0 87,955"
+    ],
+    [
+      "Other revenue",
+      "1,007",
+      "",
+      "583",
+      "",
+      "1,891",
+      "",
+      "1,093"
+    ],
+    [
+      "Family of Apps",
+      "60,370",
+      "",
+      "47,146",
+      "",
+      "116,278",
+      "",
+      "89,048"
+    ],
+    [
+      "Reality Labs",
+      "431",
+      "",
+      "370",
+      "",
+      "833",
+      "",
+      "782"
+    ],
+    [
+      "Total revenue",
+      "$ \u00a0 \u00a0 \u00a0 \u00a0 60,801",
+      "",
+      "$ \u00a0 \u00a0 \u00a0\u00a0 \u00a047,516",
+      "",
+      "$ \u00a0 \u00a0 \u00a0\u00a0 117,111",
+      "",
+      "$ \u00a0 \u00a0 \u00a0 \u00a0 89,830"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Income (loss) from operations:",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Family of Apps",
+      "$ \u00a0 \u00a0 \u00a0 \u00a0 23,394",
+      "",
+      "$ \u00a0 \u00a0 \u00a0 \u00a0 24,971",
+      "",
+      "$ \u00a0 \u00a0 \u00a0 \u00a0 50,294",
+      "",
+      "$ \u00a0 \u00a0 \u00a0 \u00a0 46,736"
+    ],
+    [
+      "Reality Labs",
+      "(4,619)",
+      "",
+      "(4,530)",
+      "",
+      "(8,647)",
+      "",
+      "(8,739)"
+    ],
+    [
+      "Total income from operations",
+      "$ \u00a0 \u00a0 \u00a0 \u00a0 18,775",
+      "",
+      "$ \u00a0 \u00a0 \u00a0 \u00a0 20,441",
+      "",
+      "$ \u00a0 \u00a0\u00a0 \u00a0 \u00a041,647",
+      "",
+      "$ \u00a0 \u00a0 \u00a0 \u00a0 37,997"
+    ]
+  ],
+  [
+    [
+      "Reconciliation of GAAP to Non-GAAP Results"
+    ],
+    [
+      "(In millions, except percentages)"
+    ],
+    [
+      "(Unaudited)"
+    ],
+    [
+      ""
+    ],
+    [
+      "",
+      "Three Months Ended June 30,",
+      "",
+      "Six Months Ended June 30,"
+    ],
+    [
+      "",
+      "2026",
+      "",
+      "2025",
+      "",
+      "2026",
+      "",
+      "2025"
+    ],
+    [
+      "GAAP revenue",
+      "$\u00a0\u00a0\u00a0\u00a060,801",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a047,516",
+      "",
+      "$\u00a0\u00a0117,111",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a089,830"
+    ],
+    [
+      "Foreign exchange effect on 2026 revenue using 2025 rates",
+      "(685)",
+      "",
+      "",
+      "",
+      "(2,433)",
+      "",
+      ""
+    ],
+    [
+      "Revenue excluding foreign exchange effect",
+      "$\u00a0\u00a0\u00a0\u00a060,116",
+      "",
+      "",
+      "",
+      "$\u00a0\u00a0114,678",
+      "",
+      ""
+    ],
+    [
+      "GAAP revenue year-over-year change %",
+      "28\u00a0%",
+      "",
+      "",
+      "",
+      "30\u00a0%",
+      "",
+      ""
+    ],
+    [
+      "Revenue excluding foreign exchange effect year-over-year change %",
+      "27\u00a0%",
+      "",
+      "",
+      "",
+      "28\u00a0%",
+      "",
+      ""
+    ],
+    [
+      "GAAP advertising revenue",
+      "$\u00a0\u00a0\u00a0\u00a059,363",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a046,563",
+      "",
+      "$\u00a0\u00a0114,387",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a087,955"
+    ],
+    [
+      "Foreign exchange effect on 2026 advertising revenue using 2025 rates",
+      "(693)",
+      "",
+      "",
+      "",
+      "(2,428)",
+      "",
+      ""
+    ],
+    [
+      "Advertising revenue excluding foreign exchange effect",
+      "$\u00a0\u00a0\u00a0\u00a058,670",
+      "",
+      "",
+      "",
+      "$\u00a0\u00a0111,959",
+      "",
+      ""
+    ],
+    [
+      "GAAP advertising revenue year-over-year change %",
+      "27\u00a0%",
+      "",
+      "",
+      "",
+      "30\u00a0%",
+      "",
+      ""
+    ],
+    [
+      "Advertising revenue excluding foreign exchange effect year-over-year change %",
+      "26\u00a0%",
+      "",
+      "",
+      "",
+      "27\u00a0%",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net cash provided by operating activities",
+      "$\u00a0\u00a0\u00a0\u00a031,862",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a025,561",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a064,088",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a049,587"
+    ],
+    [
+      "Purchases of property and equipment",
+      "(30,116)",
+      "",
+      "(16,538)",
+      "",
+      "(49,113)",
+      "",
+      "(29,479)"
+    ],
+    [
+      "Principal payments on finance leases",
+      "(962)",
+      "",
+      "(474)",
+      "",
+      "(1,805)",
+      "",
+      "(1,225)"
+    ],
+    [
+      "Free cash flow",
+      "$\u00a0 \u00a0 \u00a0 \u00a0 \u00a0784",
+      "",
+      "$\u00a0 \u00a0 \u00a0 8,549",
+      "",
+      "$\u00a0\u00a0\u00a0\u00a013,170",
+      "",
+      "$\u00a0 \u00a0 18,883"
+    ]
+  ]
+]

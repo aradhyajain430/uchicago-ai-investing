@@ -1,0 +1,464 @@
+[
+  [
+    [
+      "Market Cap",
+      "13.84B"
+    ],
+    [
+      "Enterprise Value",
+      "12.97B"
+    ]
+  ],
+  [
+    [
+      "Earnings Date",
+      "Nov 2, 2026"
+    ],
+    [
+      "Ex-Dividend Date",
+      "n/a"
+    ]
+  ],
+  [
+    [
+      "Current Share Class",
+      "35.83M"
+    ],
+    [
+      "Shares Outstanding",
+      "35.83M"
+    ],
+    [
+      "Shares Change (YoY)",
+      "-0.04%"
+    ],
+    [
+      "Shares Change (QoQ)",
+      "+0.16%"
+    ],
+    [
+      "Owned by Insiders (%)",
+      "0.25%"
+    ],
+    [
+      "Owned by Institutions (%)",
+      "102.55%"
+    ],
+    [
+      "Float",
+      "35.72M"
+    ]
+  ],
+  [
+    [
+      "PE Ratio",
+      "29.62"
+    ],
+    [
+      "Forward PE",
+      "21.29"
+    ],
+    [
+      "PS Ratio",
+      "2.94"
+    ],
+    [
+      "Forward PS",
+      "2.24"
+    ],
+    [
+      "PB Ratio",
+      "5.56"
+    ],
+    [
+      "P/TBV Ratio",
+      "5.57"
+    ],
+    [
+      "P/FCF Ratio",
+      "3,233.12"
+    ],
+    [
+      "P/OCF Ratio",
+      "53.17"
+    ],
+    [
+      "PEG Ratio",
+      "0.81"
+    ]
+  ],
+  [
+    [
+      "EV / Earnings",
+      "27.02"
+    ],
+    [
+      "EV / Sales",
+      "2.75"
+    ],
+    [
+      "EV / EBITDA",
+      "24.08"
+    ],
+    [
+      "EV / EBIT",
+      "27.59"
+    ],
+    [
+      "EV / FCF",
+      "3,026.81"
+    ]
+  ],
+  [
+    [
+      "Current Ratio",
+      "2.25"
+    ],
+    [
+      "Quick Ratio",
+      "1.35"
+    ],
+    [
+      "Debt / Equity",
+      "0.00"
+    ],
+    [
+      "Debt / EBITDA",
+      "0.01"
+    ],
+    [
+      "Debt / FCF",
+      "0.95"
+    ],
+    [
+      "Interest Coverage",
+      "5,514.95"
+    ]
+  ],
+  [
+    [
+      "Return on Equity (ROE)",
+      "21.33%"
+    ],
+    [
+      "Return on Assets (ROA)",
+      "8.59%"
+    ],
+    [
+      "Return on Invested Capital (ROIC)",
+      "26.79%"
+    ],
+    [
+      "Return on Capital Employed (ROCE)",
+      "18.47%"
+    ],
+    [
+      "Weighted Average Cost of Capital (WACC)",
+      "10.89%"
+    ],
+    [
+      "Revenue Per Employee",
+      "$215,654"
+    ],
+    [
+      "Profits Per Employee",
+      "$21,980"
+    ],
+    [
+      "Employee Count",
+      "21,521"
+    ],
+    [
+      "Asset Turnover",
+      "1.38"
+    ],
+    [
+      "Inventory Turnover",
+      "5.10"
+    ]
+  ],
+  [
+    [
+      "Income Tax",
+      "82.09M"
+    ],
+    [
+      "Effective Tax Rate",
+      "14.79%"
+    ]
+  ],
+  [
+    [
+      "Beta (5Y)",
+      "1.21"
+    ],
+    [
+      "52-Week Price Change",
+      "+7.48%"
+    ],
+    [
+      "50-Day Moving Average",
+      "462.13"
+    ],
+    [
+      "200-Day Moving Average",
+      "534.92"
+    ],
+    [
+      "Relative Strength Index (RSI)",
+      "38.75"
+    ],
+    [
+      "Average Volume (20 Days)",
+      "804,103"
+    ]
+  ],
+  [
+    [
+      "Short Interest",
+      "1.52M"
+    ],
+    [
+      "Short Previous Month",
+      "1.66M"
+    ],
+    [
+      "Short % of Shares Out",
+      "4.24%"
+    ],
+    [
+      "Short % of Float",
+      "4.25%"
+    ],
+    [
+      "Short Ratio (days to cover)",
+      "1.48"
+    ]
+  ],
+  [
+    [
+      "Revenue",
+      "4.64B"
+    ],
+    [
+      "Gross Profit",
+      "556.51M"
+    ],
+    [
+      "Operating Income",
+      "463.26M"
+    ],
+    [
+      "Pretax Income",
+      "555.11M"
+    ],
+    [
+      "Net Income",
+      "473.03M"
+    ],
+    [
+      "EBITDA",
+      "530.73M"
+    ],
+    [
+      "EBIT",
+      "463.26M"
+    ],
+    [
+      "Earnings Per Share (EPS)",
+      "$13.05"
+    ]
+  ],
+  [
+    [
+      "Cash & Cash Equivalents",
+      "875.06M"
+    ],
+    [
+      "Total Debt",
+      "4.01M"
+    ],
+    [
+      "Net Cash",
+      "871.04M"
+    ],
+    [
+      "Net Cash Per Share",
+      "$24.31"
+    ],
+    [
+      "Equity (Book Value)",
+      "2.45B"
+    ],
+    [
+      "Book Value Per Share",
+      "68.49"
+    ],
+    [
+      "Working Capital",
+      "1.76B"
+    ]
+  ],
+  [
+    [
+      "Operating Cash Flow",
+      "256.73M"
+    ],
+    [
+      "Capital Expenditures",
+      "-252.50M"
+    ],
+    [
+      "Depreciation & Amortization",
+      "67.47M"
+    ],
+    [
+      "Net Borrowing",
+      "n/a"
+    ],
+    [
+      "Free Cash Flow",
+      "4.22M"
+    ],
+    [
+      "FCF Per Share",
+      "$0.12"
+    ]
+  ],
+  [
+    [
+      "Gross Margin",
+      "11.99%"
+    ],
+    [
+      "Operating Margin",
+      "9.98%"
+    ],
+    [
+      "Pretax Margin",
+      "11.96%"
+    ],
+    [
+      "Profit Margin",
+      "10.19%"
+    ],
+    [
+      "EBITDA Margin",
+      "11.44%"
+    ],
+    [
+      "EBIT Margin",
+      "9.98%"
+    ],
+    [
+      "FCF Margin",
+      "0.09%"
+    ]
+  ],
+  [
+    [
+      "Dividend Per Share",
+      "n/a"
+    ],
+    [
+      "Dividend Yield",
+      "n/a"
+    ],
+    [
+      "Dividend Growth (YoY)",
+      "n/a"
+    ],
+    [
+      "Years of Dividend Growth",
+      "n/a"
+    ],
+    [
+      "Payout Ratio",
+      "n/a"
+    ],
+    [
+      "Buyback Yield",
+      "0.04%"
+    ],
+    [
+      "Shareholder Yield",
+      "0.04%"
+    ],
+    [
+      "Earnings Yield",
+      "3.47%"
+    ],
+    [
+      "FCF Yield",
+      "0.03%"
+    ]
+  ],
+  [
+    [
+      "Price Target",
+      "$734.11"
+    ],
+    [
+      "Price Target Difference",
+      "90.05%"
+    ],
+    [
+      "Analyst Consensus",
+      "Buy"
+    ],
+    [
+      "Analyst Count",
+      "9"
+    ],
+    [
+      "Revenue Growth Forecast (3Y)",
+      "26.57%"
+    ],
+    [
+      "EPS Growth Forecast (3Y)",
+      "27.61%"
+    ]
+  ],
+  [
+    [
+      "Lynch Fair Value",
+      "Upgrade"
+    ],
+    [
+      "Lynch Upside",
+      "Upgrade"
+    ],
+    [
+      "Graham Number",
+      "Upgrade"
+    ],
+    [
+      "Graham Upside",
+      "Upgrade"
+    ]
+  ],
+  [
+    [
+      "Last Split Date",
+      "n/a"
+    ],
+    [
+      "Split Type",
+      "n/a"
+    ],
+    [
+      "Split Ratio",
+      "n/a"
+    ]
+  ],
+  [
+    [
+      "Altman Z-Score",
+      "10.06"
+    ],
+    [
+      "Piotroski F-Score",
+      "4"
+    ]
+  ]
+]

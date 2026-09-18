@@ -1,0 +1,398 @@
+[
+  {
+    "text": "Skip to main content",
+    "href": "#main"
+  },
+  {
+    "text": "",
+    "href": "/"
+  },
+  {
+    "text": "Help",
+    "href": "/help/"
+  },
+  {
+    "text": "Log In",
+    "href": "/login/"
+  },
+  {
+    "text": "Sign Up",
+    "href": "/pro/"
+  },
+  {
+    "text": "Home",
+    "href": "/"
+  },
+  {
+    "text": "Watchlist",
+    "href": "/watchlist/"
+  },
+  {
+    "text": "Stocks",
+    "href": "/stocks/"
+  },
+  {
+    "text": "Stock Screener",
+    "href": "/stocks/screener/"
+  },
+  {
+    "text": "Stock Exchanges",
+    "href": "/list/exchanges/"
+  },
+  {
+    "text": "Comparison Tool",
+    "href": "/stocks/compare/"
+  },
+  {
+    "text": "Earnings Calendar",
+    "href": "/stocks/earnings-calendar/"
+  },
+  {
+    "text": "By Industry",
+    "href": "/stocks/industry/"
+  },
+  {
+    "text": "Stock Lists",
+    "href": "/list/"
+  },
+  {
+    "text": "Top Stocks",
+    "href": "/analysts/top-stocks/"
+  },
+  {
+    "text": "Corporate Actions",
+    "href": "/actions/"
+  },
+  {
+    "text": "IPOs",
+    "href": "/ipos/"
+  },
+  {
+    "text": "Recent IPOs",
+    "href": "/ipos/"
+  },
+  {
+    "text": "IPO Calendar",
+    "href": "/ipos/calendar/"
+  },
+  {
+    "text": "IPO Lockups",
+    "href": "/ipos/lockups/"
+  },
+  {
+    "text": "IPO Statistics",
+    "href": "/ipos/statistics/"
+  },
+  {
+    "text": "IPO News",
+    "href": "/ipos/news/"
+  },
+  {
+    "text": "IPO Screener",
+    "href": "/ipos/screener/"
+  },
+  {
+    "text": "ETFs",
+    "href": "/etf/"
+  },
+  {
+    "text": "ETF Screener",
+    "href": "/etf/screener/"
+  },
+  {
+    "text": "Comparison Tool",
+    "href": "/etf/compare/"
+  },
+  {
+    "text": "New Launches",
+    "href": "/etf/list/new/"
+  },
+  {
+    "text": "ETF Providers",
+    "href": "/etf/provider/"
+  },
+  {
+    "text": "Analysts",
+    "href": "/analysts/"
+  },
+  {
+    "text": "News",
+    "href": "/news/"
+  },
+  {
+    "text": "Trending",
+    "href": "/trending/"
+  },
+  {
+    "text": "Private Companies",
+    "href": "/private/"
+  },
+  {
+    "text": "Technical Chart",
+    "href": "/chart/"
+  },
+  {
+    "text": "Fundamental Chart",
+    "href": "/fundamental-chart/"
+  },
+  {
+    "text": "Market Movers",
+    "href": "/markets/gainers/"
+  },
+  {
+    "text": "Top Gainers",
+    "href": "/markets/gainers/"
+  },
+  {
+    "text": "Top Losers",
+    "href": "/markets/losers/"
+  },
+  {
+    "text": "Most Active",
+    "href": "/markets/active/"
+  },
+  {
+    "text": "Premarket",
+    "href": "/markets/premarket/"
+  },
+  {
+    "text": "After Hours",
+    "href": "/markets/afterhours/"
+  },
+  {
+    "text": "Market Heatmap",
+    "href": "/markets/heatmap/"
+  },
+  {
+    "text": "Market Newsletter",
+    "href": "/subscribe/"
+  },
+  {
+    "text": "Stock Analysis Pro",
+    "href": "/pro/"
+  },
+  {
+    "text": "Tools",
+    "href": "/tools/"
+  },
+  {
+    "text": "Overview",
+    "href": "/stocks/fn/"
+  },
+  {
+    "text": "Financials",
+    "href": "/stocks/fn/financials/"
+  },
+  {
+    "text": "Forecast",
+    "href": "/stocks/fn/forecast/"
+  },
+  {
+    "text": "Statistics",
+    "href": "/stocks/fn/statistics/"
+  },
+  {
+    "text": "Dividends",
+    "href": "/stocks/fn/dividend/"
+  },
+  {
+    "text": "History",
+    "href": "/stocks/fn/history/"
+  },
+  {
+    "text": "Profile",
+    "href": "/stocks/fn/company/"
+  },
+  {
+    "text": "Chart",
+    "href": "/chart/FN/"
+  },
+  {
+    "text": "Forecast",
+    "href": "/stocks/fn/forecast/"
+  },
+  {
+    "text": "Analyst Ratings",
+    "href": "/stocks/fn/ratings/"
+  },
+  {
+    "text": "Chart",
+    "href": "/fundamental-chart/?p=FN~stockPrice~d~l~s,FN~priceTarget~d~l~s,FN~priceTargetLow~d~l~s,FN~priceTargetHigh~d~l~s&r=1Y&dl=1"
+  },
+  {
+    "text": "Chart",
+    "href": "/fundamental-chart/?p=FN~ratingStrongBuy~d~s~s,FN~ratingBuy~d~s~s,FN~ratingHold~d~s~s,FN~ratingSell~d~s~s,FN~ratingStrongSell~d~s~s&r=1Y"
+  },
+  {
+    "text": "Steven Fox",
+    "href": "/analysts/steven-fox/"
+  },
+  {
+    "text": "Tim Savageaux",
+    "href": "/analysts/tim-savageaux/"
+  },
+  {
+    "text": "Dave Kang",
+    "href": "/analysts/dave-kang/"
+  },
+  {
+    "text": "Joseph Cardoso",
+    "href": "/analysts/joseph-cardoso/"
+  },
+  {
+    "text": "Christopher Rolland",
+    "href": "/analysts/christopher-rolland/"
+  },
+  {
+    "text": "More Analyst Ratings",
+    "href": "/stocks/fn/ratings/"
+  },
+  {
+    "text": "Chart",
+    "href": "/fundamental-chart/?p=FN~fcRevenue~a~c~s"
+  },
+  {
+    "text": "Chart",
+    "href": "/fundamental-chart/?p=FN~fcRevenueGrowth~a~l~s"
+  },
+  {
+    "text": "Chart",
+    "href": "/fundamental-chart/?p=FN~fcEpsAdjusted~a~c~s"
+  },
+  {
+    "text": "Chart",
+    "href": "/fundamental-chart/?p=FN~fcEpsAdjustedGrowth~a~l~s"
+  },
+  {
+    "text": "S&P Global Market Intelligence",
+    "href": "https://www.spglobal.com/market-intelligence/en?utm_source=stockanalysis.com&utm_medium=referral"
+  },
+  {
+    "text": "TipRanks",
+    "href": "https://www.tipranks.com/?utm_source=stockanalysis.com&utm_medium=referral"
+  },
+  {
+    "text": "S&P Global Market Intelligence",
+    "href": "https://www.spglobal.com/market-intelligence/en?utm_source=stockanalysis.com&utm_medium=referral"
+  },
+  {
+    "text": "TipRanks",
+    "href": "https://www.tipranks.com/?utm_source=stockanalysis.com&utm_medium=referral"
+  },
+  {
+    "text": "Data Sources",
+    "href": "/data-sources/"
+  },
+  {
+    "text": "Report a data error",
+    "href": "/report-data-error/#url=%2Fstocks%2Ffn%2Fforecast%2F&ticker=FN"
+  },
+  {
+    "text": "4.9 6.7K",
+    "href": "https://apps.apple.com/us/app/stock-analysis-app/id6751272467"
+  },
+  {
+    "text": "4.9 7.2K",
+    "href": "https://play.google.com/store/apps/details?id=com.stockanalysis.app"
+  },
+  {
+    "text": "Stocks",
+    "href": "/stocks/"
+  },
+  {
+    "text": "IPOs",
+    "href": "/ipos/"
+  },
+  {
+    "text": "ETFs",
+    "href": "/etf/"
+  },
+  {
+    "text": "Private Companies",
+    "href": "/private/"
+  },
+  {
+    "text": "Stock Analysis Pro",
+    "href": "/pro/"
+  },
+  {
+    "text": "Free Newsletter",
+    "href": "/subscribe/"
+  },
+  {
+    "text": "Get Support",
+    "href": "/support/"
+  },
+  {
+    "text": "Install The App",
+    "href": "/app/"
+  },
+  {
+    "text": "Login",
+    "href": "/login/"
+  },
+  {
+    "text": "Create Account",
+    "href": "/create-account/"
+  },
+  {
+    "text": "Changelog",
+    "href": "/changelog/"
+  },
+  {
+    "text": "Data Sources",
+    "href": "/data-sources/"
+  },
+  {
+    "text": "Advertise",
+    "href": "/advertise/"
+  },
+  {
+    "text": "Help Center",
+    "href": "/help/"
+  },
+  {
+    "text": "About",
+    "href": "/about/"
+  },
+  {
+    "text": "Contact Us",
+    "href": "/contact/"
+  },
+  {
+    "text": "Terms of Use",
+    "href": "/terms-of-use/"
+  },
+  {
+    "text": "Privacy Policy",
+    "href": "/privacy-policy/"
+  },
+  {
+    "text": "Affiliate Program",
+    "href": "/affiliates/"
+  },
+  {
+    "text": "",
+    "href": "https://www.facebook.com/stockanalysisoff/"
+  },
+  {
+    "text": "",
+    "href": "https://x.com/stock_analysisx"
+  },
+  {
+    "text": "",
+    "href": "https://www.linkedin.com/company/stock-analysis/"
+  },
+  {
+    "text": "",
+    "href": "https://www.threads.com/@stockanalysis_com"
+  },
+  {
+    "text": "",
+    "href": "https://apps.apple.com/us/app/stock-analysis-app/id6751272467"
+  },
+  {
+    "text": "",
+    "href": "https://play.google.com/store/apps/details?id=com.stockanalysis.app"
+  }
+]

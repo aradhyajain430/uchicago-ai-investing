@@ -1,0 +1,401 @@
+[
+  [
+    [
+      "Target",
+      "Low",
+      "Average",
+      "Median",
+      "High"
+    ],
+    [
+      "Price",
+      "$598",
+      "$734.11",
+      "$750",
+      "$850"
+    ],
+    [
+      "Change",
+      "+54.73%",
+      "+89.95%",
+      "+94.06%",
+      "+119.94%"
+    ]
+  ],
+  [
+    [
+      "Rating",
+      "Mar '26",
+      "Apr '26",
+      "May '26",
+      "Jun '26",
+      "Jul '26",
+      "Aug '26"
+    ],
+    [
+      "Strong Buy",
+      "4",
+      "4",
+      "4",
+      "4",
+      "4",
+      "4"
+    ],
+    [
+      "Buy",
+      "4",
+      "3",
+      "3",
+      "3",
+      "3",
+      "3"
+    ],
+    [
+      "Hold",
+      "1",
+      "2",
+      "2",
+      "2",
+      "2",
+      "2"
+    ],
+    [
+      "Sell",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "Strong Sell",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "Total",
+      "9",
+      "9",
+      "9",
+      "9",
+      "9",
+      "9"
+    ]
+  ],
+  [
+    [
+      "Analyst",
+      "Firm",
+      "Rating",
+      "Rating",
+      "Action",
+      "Price Target",
+      "Upside",
+      "Date"
+    ],
+    [
+      "Steven Fox Fox Advisors",
+      "Fox Advisors",
+      "Buy Upgrades n/a",
+      "Buy",
+      "Upgrades",
+      "n/a",
+      "n/a",
+      "Aug 19, 2026"
+    ],
+    [
+      "Tim Savageaux Northland Securities",
+      "Northland Securities",
+      "Buy Reiterates $800",
+      "Buy",
+      "Reiterates",
+      "$800",
+      "+107.00%",
+      "Aug 18, 2026"
+    ],
+    [
+      "Dave Kang B. Riley Securities",
+      "B. Riley Securities",
+      "Hold Initiates $635 \u2192 $598",
+      "Hold",
+      "Initiates",
+      "$635 \u2192 $598",
+      "+54.73%",
+      "Aug 18, 2026"
+    ],
+    [
+      "Joseph Cardoso J.P. Morgan",
+      "J.P. Morgan",
+      "Hold Reiterates $680 \u2192 $695",
+      "Hold",
+      "Reiterates",
+      "$680 \u2192 $695",
+      "+79.83%",
+      "Aug 18, 2026"
+    ],
+    [
+      "Christopher Rolland Susquehanna",
+      "Susquehanna",
+      "Buy Reiterates $850",
+      "Buy",
+      "Reiterates",
+      "$850",
+      "+119.94%",
+      "Aug 18, 2026"
+    ]
+  ],
+  [
+    [
+      "Fiscal Year",
+      "FY 2022",
+      "FY 2023",
+      "FY 2024",
+      "FY 2025",
+      "FY 2026",
+      "FY 2027",
+      "FY 2028",
+      "FY 2029"
+    ],
+    [
+      "Period Ending",
+      "Jun 24, 2022",
+      "Jun 30, 2023",
+      "Jun 28, 2024",
+      "Jun 27, 2025",
+      "Jun 26, 2026",
+      "Jun 30, 2027",
+      "Jun 30, 2028",
+      "Jun 30, 2029"
+    ],
+    [
+      "Revenue",
+      "2.26B",
+      "2.65B",
+      "2.88B",
+      "3.42B",
+      "4.64B",
+      "6.09B",
+      "Upgrade",
+      "Upgrade"
+    ],
+    [
+      "Revenue Growth",
+      "20.37%",
+      "16.93%",
+      "8.99%",
+      "18.60%",
+      "35.73%",
+      "31.21%",
+      "Upgrade",
+      "Upgrade"
+    ],
+    [
+      "Gross Profit",
+      "278.59M",
+      "336.27M",
+      "356.12M",
+      "413.35M",
+      "556.51M",
+      "750.03M",
+      "Upgrade",
+      "Upgrade"
+    ],
+    [
+      "Gross Margin",
+      "12.32%",
+      "12.71%",
+      "12.35%",
+      "12.09%",
+      "11.99%",
+      "12.32%",
+      "Upgrade",
+      "Upgrade"
+    ],
+    [
+      "Operating Income",
+      "204.65M",
+      "258.60M",
+      "277.64M",
+      "325.76M",
+      "463.26M",
+      "674.79M",
+      "Upgrade",
+      "Upgrade"
+    ],
+    [
+      "Net Income",
+      "200.38M",
+      "247.91M",
+      "296.18M",
+      "332.53M",
+      "473.03M",
+      "628.75M",
+      "Upgrade",
+      "Upgrade"
+    ],
+    [
+      "EPS",
+      "-",
+      "-",
+      "-",
+      "-",
+      "14.09",
+      "18.16",
+      "Upgrade",
+      "Upgrade"
+    ],
+    [
+      "EPS Growth",
+      "-",
+      "-",
+      "-",
+      "-",
+      "38.54%",
+      "28.86%",
+      "Upgrade",
+      "Upgrade"
+    ],
+    [
+      "Forward PE",
+      "13.05",
+      "17.25",
+      "26.09",
+      "26.57",
+      "32.17",
+      "21.29",
+      "Upgrade",
+      "Upgrade"
+    ],
+    [
+      "Free Cash Flow",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-57.87M",
+      "381.53M",
+      "Upgrade",
+      "Upgrade"
+    ],
+    [
+      "No. Analysts",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "6",
+      "Upgrade",
+      "Upgrade"
+    ]
+  ],
+  [
+    [
+      "Revenue",
+      "2027",
+      "2028",
+      "2029"
+    ],
+    [
+      "High",
+      "6.5B",
+      "Pro",
+      "Pro"
+    ],
+    [
+      "Avg",
+      "6.1B",
+      "Pro",
+      "Pro"
+    ],
+    [
+      "Low",
+      "5.9B",
+      "Pro",
+      "Pro"
+    ]
+  ],
+  [
+    [
+      "Revenue Growth",
+      "2027",
+      "2028",
+      "2029"
+    ],
+    [
+      "High",
+      "39.9%",
+      "Pro",
+      "Pro"
+    ],
+    [
+      "Avg",
+      "31.2%",
+      "Pro",
+      "Pro"
+    ],
+    [
+      "Low",
+      "26.8%",
+      "Pro",
+      "Pro"
+    ]
+  ],
+  [
+    [
+      "EPS",
+      "2027",
+      "2028",
+      "2029"
+    ],
+    [
+      "High",
+      "19.20",
+      "Pro",
+      "Pro"
+    ],
+    [
+      "Avg",
+      "18.16",
+      "Pro",
+      "Pro"
+    ],
+    [
+      "Low",
+      "17.48",
+      "Pro",
+      "Pro"
+    ]
+  ],
+  [
+    [
+      "EPS Growth",
+      "2027",
+      "2028",
+      "2029"
+    ],
+    [
+      "High",
+      "36.3%",
+      "Pro",
+      "Pro"
+    ],
+    [
+      "Avg",
+      "28.9%",
+      "Pro",
+      "Pro"
+    ],
+    [
+      "Low",
+      "24.1%",
+      "Pro",
+      "Pro"
+    ]
+  ]
+]

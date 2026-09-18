@@ -1,0 +1,63 @@
+[
+  {
+    "id": "fn_fy26_release",
+    "url": "https://investor.fabrinet.com/node/13666",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='investor.fabrinet.com', port=443): Read timed out. (read timeout=35)"
+  },
+  {
+    "id": "fn_fy26_10k",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408710/000140871026000028/fn-20260626.htm",
+    "status": "archived",
+    "bytes": 2313871,
+    "path": "research\\sources\\fn_fy26_10k.html"
+  },
+  {
+    "id": "fn_ir",
+    "url": "https://investor.fabrinet.com/",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='investor.fabrinet.com', port=443): Read timed out. (read timeout=35)"
+  },
+  {
+    "id": "fn_price",
+    "url": "https://stockanalysis.com/stocks/fn/history/",
+    "status": "archived",
+    "bytes": 118192,
+    "path": "research\\sources\\fn_price.html"
+  },
+  {
+    "id": "fn_forecast",
+    "url": "https://stockanalysis.com/stocks/fn/forecast/",
+    "status": "archived",
+    "bytes": 169355,
+    "path": "research\\sources\\fn_forecast.html"
+  },
+  {
+    "id": "lite_release",
+    "url": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx",
+    "status": "archived",
+    "bytes": 563690,
+    "path": "research\\sources\\lite_release.html"
+  },
+  {
+    "id": "cohr_release",
+    "url": "https://www.coherent.com/news/press-releases/fourth-quarter-and-fiscal-year-2026-results",
+    "status": "archived",
+    "bytes": 115887,
+    "path": "research\\sources\\cohr_release.html"
+  },
+  {
+    "id": "cohr_presentation",
+    "url": "https://www.coherent.com/content/dam/coherent/site/en/documents/investors/investor-presentations/2026/august-12/investor-presentation-20260812.pdf",
+    "status": "archived",
+    "bytes": 598935,
+    "path": "research\\sources\\cohr_presentation.pdf"
+  },
+  {
+    "id": "amodei_essay",
+    "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "status": "archived",
+    "bytes": 59871,
+    "path": "research\\sources\\amodei_essay.html"
+  }
+]

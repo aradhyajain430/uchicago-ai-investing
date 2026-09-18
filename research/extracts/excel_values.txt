@@ -1,0 +1,320 @@
+sheets: ['Summary', 'Assumptions', 'Quarterly', 'DCF', 'Comps', 'Actuals', 'Evidence']
+
+===== SHEET Summary dims=A1:R150 =====
+C2='Lumentum | Summary'
+C3='USD millions, except EPS and share prices'
+C4='Case selected' | E4='Base'
+C6='Selected-case results'
+E7='FY:27' | F7='FY:28'
+C8='Revenue' | E8=6100.681933511029 | F8=8960.534814272181
+C9='Adjusted operating profit' | E9=2619.928595659014 | F9=4107.307407136092
+C10='Adjusted operating margin' | E10=0.4294484820242395 | F10=0.45837748441019893
+C11='Adjusted EPS' | E11=21.832738297158446 | F11=33.422207332578
+C12='Economic unlevered FCF' | E12=939.7786163859703 | F12=1716.1391260382704
+C15='Reference price (Sep 17)' | E15=893.61
+C16='DCF value (Jun 27 anchor)' | E16=545.3637422087804
+C17='DCF return vs price' | E17=-0.38970720760871025
+C18='12-month P/E value' | E18=1002.6662199773399
+C19='12-month return' | E19=0.12204006219417862
+C20='Terminal share of DCF EV' | E20=0.7179337192012855
+C21='FY27 EPS vs August consensus' | E21=0.007509842969932734
+C24='Investment interpretation'
+C26='A long requires optical-content growth and execution. Unchanged AI spending alone is insufficient.'
+C27='Purchase commitments reduce some demand uncertainty, not yield, capacity or valuation risk.'
+C28='Base and bull are constructed scenarios; product-specific revenue and ASPs are not disclosed.'
+C29='Select 1, 2 or 3 on Assumptions to recalculate the same model. No fixed scenario snapshots in this file.'
+C30='The price target is a multiple scenario, not a DCF output. Both are shown without forcing agreement.'
+C31='Quarter 1: verify revenue $1.225–1.275bn and adjusted operating margin 39.5–40.5%.'
+C32='Next two quarters: test product ramps, gross margin, shipment capacity and customer order changes.'
+C33='By 6–12 months: test FY28 earnings visibility, inventory conversion and factory spending.'
+C34='Invalidate the bull case if shipments miss while inventories rise, or margins weaken despite growth.'
+
+===== SHEET Assumptions dims=A1:R150 =====
+C2='Lumentum | Assumptions'
+C3='USD millions, except EPS and share prices'
+C4='Case selected' | E4=2 | F4='Base' | G4='1 Bear / 2 Base / 3 Bull'
+E6='Q1:27' | F6='Q2:27' | G6='Q3:27' | H6='Q4:27' | J6='FY:27' | K6='FY:28' | L6='FY:29' | M6='FY:30' | N6='FY:31' | O6='FY:32' | P6='FY:33'
+C8='Components delivered-volume growth — active' | E8=0.232 | F8=0.125 | G8=0.122 | H8=0.089
+C9='Bear' | E9=0.2 | F9=0.04 | G9=0 | H9=0
+C10='Base' | E10=0.232 | F10=0.125 | G10=0.122 | H10=0.089
+C11='Bull' | E11=0.2598 | F11=0.195 | G11=0.19 | H11=0.18
+C13='Systems delivered-volume growth — active' | E13=0.261 | F13=0.156 | G13=0.173 | H13=0.164
+C14='Bear' | E14=0.25 | F14=0.02 | G14=0 | H14=0.02
+C15='Base' | E15=0.261 | F15=0.156 | G15=0.173 | H15=0.164
+C16='Bull' | E16=0.28 | F16=0.27 | G16=0.26 | H16=0.22
+C18='Price / mix change (both categories) — active' | E18=0 | F18=0 | G18=0 | H18=0
+C19='Bear' | E19=0 | F19=-0.02 | G19=-0.02 | H19=-0.01
+C20='Base' | E20=0 | F20=0 | G20=0 | H20=0
+C21='Bull' | E21=0 | F21=0.005 | G21=0.005 | H21=0.005
+C23='Training-order reduction (incremental) — active' | E23=0 | F23=0 | G23=0 | H23=0
+C24='Bear' | E24=0 | F24=0.1 | G24=0.2 | H24=0.2
+C25='Base' | E25=0 | F25=0 | G25=0 | H25=0
+C26='Bull' | E26=0 | F26=0 | G26=0 | H26=0
+C28='Adjusted gross margin — active' | E28=0.525 | F28=0.54 | G28=0.55 | H28=0.555
+C29='Bear' | E29=0.52 | F29=0.49 | G29=0.46 | H29=0.45
+C30='Base' | E30=0.525 | F30=0.54 | G30=0.55 | H30=0.555
+C31='Bull' | E31=0.53 | F31=0.555 | G31=0.575 | H31=0.58
+C33='Fixed adjusted opex ($m) — active' | E33=81 | F33=82 | G33=84 | H33=86
+C34='Bear' | E34=84 | F34=84 | G34=84 | H34=84
+C35='Base' | E35=81 | F35=82 | G35=84 | H35=86
+C36='Bull' | E36=82 | F36=85 | G36=90 | H36=96
+C38='Annual component volume growth — active' | J38=0 | K38=0.45 | L38=0.3 | M38=0.2 | N38=0.15 | O38=0.1 | P38=0.08
+C39='Bear' | J39=0 | K39=0.05 | L39=0.1 | M39=0.08 | N39=0.06 | O39=0.05 | P39=0.04
+C40='Base' | J40=0 | K40=0.45 | L40=0.3 | M40=0.2 | N40=0.15 | O40=0.1 | P40=0.08
+C41='Bull' | J41=0 | K41=0.6 | L41=0.45 | M41=0.3 | N41=0.2 | O41=0.15 | P41=0.1
+C43='Annual system volume growth — active' | J43=0 | K43=0.5 | L43=0.35 | M43=0.25 | N43=0.18 | O43=0.12 | P43=0.08
+C44='Bear' | J44=0 | K44=0.08 | L44=0.12 | M44=0.1 | N44=0.08 | O44=0.06 | P44=0.04
+C45='Base' | J45=0 | K45=0.5 | L45=0.35 | M45=0.25 | N45=0.18 | O45=0.12 | P45=0.08
+C46='Bull' | J46=0 | K46=0.65 | L46=0.5 | M46=0.35 | N46=0.25 | O46=0.18 | P46=0.1
+C48='Annual adjusted gross margin — active' | J48=0 | K48=0.56 | L48=0.56 | M48=0.55 | N48=0.54 | O48=0.53 | P48=0.52
+C49='Bear' | J49=0 | K49=0.46 | L49=0.47 | M49=0.47 | N49=0.46 | O49=0.45 | P49=0.44
+C50='Base' | J50=0 | K50=0.56 | L50=0.56 | M50=0.55 | N50=0.54 | O50=0.53 | P50=0.52
+C51='Bull' | J51=0 | K51=0.59 | L51=0.59 | M51=0.58 | N51=0.57 | O51=0.56 | P51=0.55
+C53='Annual fixed opex growth — active' | J53=0 | K53=0.12 | L53=0.12 | M53=0.1 | N53=0.08 | O53=0.06 | P53=0.05
+C54='Bear' | J54=0 | K54=0.05 | L54=0.05 | M54=0.05 | N54=0.05 | O54=0.05 | P54=0.05
+C55='Base' | J55=0 | K55=0.12 | L55=0.12 | M55=0.1 | N55=0.08 | O55=0.06 | P55=0.05
+C56='Bull' | J56=0 | K56=0.18 | L56=0.16 | M56=0.12 | N56=0.1 | O56=0.08 | P56=0.06
+C58='Cash capex / revenue — active' | J58=0.15 | K58=0.14 | L58=0.12 | M58=0.1 | N58=0.08 | O58=0.07 | P58=0.06
+C59='Bear' | J59=0.18 | K59=0.16 | L59=0.13 | M59=0.11 | N59=0.09 | O59=0.08 | P59=0.07
+C60='Base' | J60=0.15 | K60=0.14 | L60=0.12 | M60=0.1 | N60=0.08 | O60=0.07 | P60=0.06
+C61='Bull' | J61=0.16 | K61=0.15 | L61=0.13 | M61=0.11 | N61=0.09 | O61=0.08 | P61=0.07
+C63='Normalized cash tax rate — active' | J63=0.15 | K63=0.17 | L63=0.19 | M63=0.2 | N63=0.2 | O63=0.2 | P63=0.2
+C64='Bear' | J64=0.15 | K64=0.17 | L64=0.19 | M64=0.2 | N64=0.2 | O64=0.2 | P64=0.2
+C65='Base' | J65=0.15 | K65=0.17 | L65=0.19 | M65=0.2 | N65=0.2 | O65=0.2 | P65=0.2
+C66='Bull' | J66=0.15 | K66=0.17 | L66=0.19 | M66=0.2 | N66=0.2 | O66=0.2 | P66=0.2
+C68='Recurring SBC / revenue — active' | J68=0.03 | K68=0.03 | L68=0.03 | M68=0.03 | N68=0.03 | O68=0.03 | P68=0.03
+C69='Bear' | J69=0.04 | K69=0.04 | L69=0.04 | M69=0.04 | N69=0.04 | O69=0.04 | P69=0.04
+C70='Base' | J70=0.03 | K70=0.03 | L70=0.03 | M70=0.03 | N70=0.03 | O70=0.03 | P70=0.03
+C71='Bull' | J71=0.03 | K71=0.03 | L71=0.03 | M71=0.03 | N71=0.03 | O71=0.03 | P71=0.03
+C73='Inventory days — active' | J73=115 | K73=110 | L73=105 | M73=100 | N73=95 | O73=90 | P73=90
+C74='Bear' | J74=150 | K74=150 | L74=140 | M74=135 | N74=130 | O74=125 | P74=120
+C75='Base' | J75=115 | K75=110 | L75=105 | M75=100 | N75=95 | O75=90 | P75=90
+C76='Bull' | J76=105 | K76=100 | L76=95 | M76=90 | N76=85 | O76=85 | P76=85
+C82='Variable adjusted opex / revenue' | E82=0.06
+C83='Components frontier-training share (assumed)' | E83=0.4
+C84='Systems frontier-training share (assumed)' | E84=0.35
+C85='Diluted share proxy, millions' | E85=102
+C86='DSO' | E86=50
+C87='DPO (operating only)' | E87=70
+C88='Other operating NWC / revenue' | E88=0.03
+C89='Remaining PP&E life, years' | E89=7
+C90='SBC allocated to cost of sales' | E90=0.23
+C91='WACC' | E91=0.105
+C92='Terminal growth' | E92=0.035
+C93='Terminal ROIC' | E93=0.2
+C94='Days in year' | E94=365
+C95='Reference date' | E95='2026-09-18'
+C96='FY27 net nonoperating income ($m)' | E96=0
+C97='12-month exit P/E: Bear' | E97=25
+C98='12-month exit P/E: Base' | E98=30
+C99='12-month exit P/E: Bull' | E99=35
+C100='Active 12-month exit P/E' | E100=30
+C103='Blue cells are editable. Volume and price/mix are scenario indices, not disclosed unit or ASP forecasts.'
+C104='Base quarter 1 is calibrated to company guidance; later periods are analyst assumptions, not orders.'
+C105='Bear includes weaker execution plus an explicit training-order haircut. No separate NVIDIA revenue added.'
+C106='102m diluted-share proxy starts near Q4 adjusted 101.1m; not a security-by-security conversion model.'
+C107='DCF treats future SBC as an economic cash cost and does not add further future SBC dilution.'
+C108='DPO excludes capex financing. Opening operating payables are normalized; exact split is not disclosed.'
+C109='DCF anchor is fiscal year-end. September price comparison has an approximately 3-month timing mismatch.'
+C110='WACC, terminal growth, terminal ROIC and exit multiples are sensitivity assumptions, not measured facts.'
+C112='Quarter growth tapers from Q1 guidance. Base assumes no price benefit; bull adds 0.5% quarterly price/mix.'
+C113='Gross margins extend recent gains, then fade. Fixed opex grows with scale; variable opex remains 6% of sales.'
+C114='Capex begins near FY26 15% of sales; base inventory days decline as the current production ramp matures.'
+C115='Forecast net nonoperating income is zero; no speculative interest-income benefit is included.'
+C116='Flat shares in EPS assume offsetting future issuance; DCF charges SBC as the economic cost of that offset.'
+
+===== SHEET Quarterly dims=A1:R150 =====
+C2='Lumentum | Quarterly'
+C3='USD millions, except EPS and share prices'
+C4='Case selected' | E4='Base'
+C6='FY2027 product revenue and adjusted earnings'
+E7='Q1:27' | F7='Q2:27' | G7='Q3:27' | H7='Q4:27' | I7='FY:27'
+C8='Component volume growth' | E8=0.232 | F8=0.125 | G8=0.122 | H8=0.089
+C9='Components before policy haircut' | E9=800.0608 | F9=900.0684 | G9=1009.8767447999999 | H9=1099.7557750872 | I9=3809.7617198871994
+C10='Components revenue' | E10=800.0608 | F10=900.0684 | G10=1009.8767447999999 | H10=1099.7557750872 | I10=3809.7617198871994
+C11='System volume growth' | E11=0.261 | F11=0.156 | G11=0.173 | H11=0.164
+C12='Systems before policy haircut' | E12=450.0509 | F12=520.2588403999999 | G12=610.2636197892 | H12=710.3468534346288 | I12=2290.9202136238287
+C13='Systems revenue' | E13=450.0509 | F13=520.2588403999999 | G13=610.2636197892 | H13=710.3468534346288 | I13=2290.9202136238287
+C14='Revenue' | E14=1250.1117 | F14=1420.3272404 | G14=1620.1403645891999 | H14=1810.1026285218286 | I14=6100.681933511029
+C15='Sequential revenue growth' | E15=0.24228530259366 | F15=0.13616026503871614 | G15=0.14068104765274203 | H15=0.11725049760166639
+C17='Adjusted gross margin' | E17=0.525 | F17=0.54 | G17=0.55 | H17=0.555 | I17=0.5440325438765435
+C18='Adjusted cost of sales' | E18=593.8030574999999 | F18=653.3505305839999 | G18=729.0631640651399 | H18=805.4956696922136 | I18=2781.7124218413533
+C19='Adjusted gross profit' | E19=656.3086425 | F19=766.976709816 | G19=891.07720052406 | H19=1004.606958829615 | I19=3318.9695116696753
+C20='Fixed adjusted opex' | E20=81 | F20=82 | G20=84 | H20=86 | I20=333
+C21='Variable adjusted opex' | E21=75.00670199999999 | F21=85.21963442399999 | G21=97.20842187535199 | H21=108.6061577113097 | I21=366.0409160106617
+C22='Adjusted operating profit' | E22=500.3019405 | F22=599.757075392 | G22=709.868778648708 | H22=810.0008011183053 | I22=2619.9285956590134
+C23='Adjusted operating margin' | E23=0.4002057900106047 | F23=0.42226682579367647 | G23=0.43815264045266916 | H23=0.44748888176565466 | I23=0.42944848202423946
+C24='Net nonoperating income' | E24=0 | F24=0 | G24=0 | H24=0 | I24=0
+C25='Tax rate' | E25=0.15 | F25=0.15 | G25=0.15 | H25=0.15 | I25=0.15000000000000002
+C26='Adjusted tax expense' | E26=75.045291075 | F26=89.96356130880001 | G26=106.4803167973062 | H26=121.50012016774579 | I26=392.989289348852
+C27='Adjusted net income' | E27=425.256649425 | F27=509.7935140832 | G27=603.3884618514019 | H27=688.5006809505595 | I27=2226.9393063101616
+C28='Diluted shares (proxy)' | E28=102 | F28=102 | G28=102 | H28=102 | I28=102
+C29='Adjusted EPS' | E29=4.1691828375 | F29=4.9979756282666665 | G29=5.915573155405901 | H29=6.750006675985878 | I29=21.832738297158443
+C32='Revenue = delivered-volume index × price/mix, then the exposed training-order haircut.'
+C33='Product categories are reported; training shares and forecast volumes are assumptions.'
+C34='Adjusted EPS excludes recurring stock compensation. DCF deducts that economic cost separately.'
+C37='Forecast checks'
+C38='Q1 revenue within issued range' | E38='Within'
+C39='Q1 EPS within issued range' | E39='Within'
+C40='Quarterly vs annual revenue difference' | E40=0
+C41='Quarterly vs annual EBIT difference' | E41=-4.547473508864641e-13
+
+===== SHEET DCF dims=A1:R150 =====
+C2='Lumentum | DCF'
+C3='USD millions, except EPS and share prices'
+C4='Case selected' | E4='Base'
+C6='Annual operating forecast and economic free cash flow'
+E7='FY:27' | F7='FY:28' | G7='FY:29' | H7='FY:30' | I7='FY:31' | J7='FY:32' | K7='FY:33'
+C8='Components' | E8=3809.7617198871994 | F8=5524.154493836439 | G8=7181.400841987371 | H8=8617.681010384844 | I8=9910.33316194257 | J8=10901.366478136828 | K8=11773.475796387775
+C9='Systems' | E9=2290.9202136238287 | F9=3436.3803204357428 | G9=4639.113432588253 | H9=5798.891790735316 | I9=6842.692313067672 | J9=7663.815390635794 | K9=8276.920621886658
+C10='Revenue' | E10=6100.681933511029 | F10=8960.534814272181 | G10=11820.514274575624 | H10=14416.57280112016 | I10=16753.025475010243 | J10=18565.181868772623 | K10=20050.39641827443
+C11='Revenue growth' | E11=1.0241147755511042 | F11=0.4687759355314016 | G11=0.3191750849232926 | H11=0.21962314551138595 | I11=0.16206713662962535 | J11=0.10816890337005058 | K11=0.07999999999999985
+C12='Adjusted gross margin' | E12=0.5440325438765435 | F12=0.56 | G12=0.56 | H12=0.55 | I12=0.54 | J12=0.53 | K12=0.52
+C13='Adjusted cost of sales' | E13=2781.7124218413533 | F13=3942.6353182797593 | G13=5201.026280813274 | H13=6487.457760504071 | I13=7706.391718504711 | J13=8725.635478323133 | K13=9624.190280771727
+C14='Adjusted gross profit' | E14=3318.9695116696753 | F14=5017.899495992422 | G14=6619.48799376235 | H14=7929.11504061609 | I14=9046.633756505533 | J14=9839.54639044949 | K14=10426.206137502704
+C15='Fixed adjusted opex' | E15=333 | F15=372.96000000000004 | G15=417.7152000000001 | H15=459.48672000000016 | I15=496.2456576000002 | J15=526.0203970560002 | K15=552.3214169088002
+C16='Variable adjusted opex' | E16=366.0409160106617 | F16=537.6320888563308 | G16=709.2308564745374 | H16=864.9943680672096 | I16=1005.1815285006146 | J16=1113.9109121263573 | K16=1203.0237850964659
+C17='Adjusted operating profit' | E17=2619.928595659014 | F17=4107.307407136092 | G17=5492.541937287812 | H17=6604.63395254888 | I17=7545.206570404918 | J17=8199.615081267133 | K17=8670.860935497438
+C18='Adjusted operating margin' | E18=0.4294484820242395 | F18=0.45837748441019893 | G18=0.4646618420910459 | H18=0.4581278812697913 | I18=0.45037874392656857 | J18=0.44166629442285255 | K18=0.4324533417999955
+C19='Cash tax rate' | E19=0.15 | F19=0.17 | G19=0.19 | H19=0.2 | I19=0.2 | J19=0.2 | K19=0.2
+C20='Adjusted EPS (non-GAAP proxy)' | E20=21.832738297158446 | F20=33.422207332578 | G20=43.617244796109105 | H20=51.80105060822651 | I20=59.178090748273874 | J20=64.31070651974223 | K20=68.00675243527402
+C22='Recurring SBC economic cost' | E22=183.02045800533085 | F22=268.8160444281654 | G22=354.6154282372687 | H22=432.4971840336048 | I22=502.5907642503073 | J22=556.9554560631786 | K22=601.5118925482329
+C23='Economic operating profit' | E23=2436.908137653683 | F23=3838.4913627079263 | G23=5137.926509050543 | H23=6172.136768515275 | I23=7042.615806154611 | J23=7642.659625203954 | K23=8069.349042949205
+C24='After-tax operating profit' | E24=2071.37191700563 | F24=3185.947831047579 | G24=4161.7204723309405 | H24=4937.7094148122205 | I24=5634.0926449236895 | J24=6114.127700163164 | K24=6455.479234359364
+C26='Beginning net PP&E' | E26=1159.1 | F26=1843.2521264533218 | G26=2744.7999199582314 | H26=3669.828664845482 | I26=4484.2491871144275 | J26=5088.152624241699 | K26=5568.0104993916775
+C27='Cash capex' | E27=915.1022900266543 | F27=1254.4748739981055 | G27=1418.4617129490748 | H27=1441.6572801120162 | I27=1340.2420380008195 | J27=1299.5627308140838 | K27=1203.0237850964659
+C28='PP&E depreciation' | E28=230.95016357333245 | F28=352.92708049319634 | G28=493.43296806182417 | H28=627.23675784307 | I28=736.3386008735481 | J28=819.7048556641059 | K28=881.3603417057014
+C29='Ending net PP&E' | E29=1843.2521264533218 | F29=2744.7999199582314 | G29=3669.828664845482 | H29=4484.2491871144275 | I29=5088.152624241699 | J29=5568.0104993916775 | K29=5889.673942782442
+C31='Receivables' | E31=835.7098539056203 | F31=1227.4705225030386 | G31=1619.2485307637842 | H31=1974.8729864548168 | I31=2294.9349965767456 | J31=2543.175598462003 | K31=2746.629646338963
+C32='Inventory' | E32=889.6926565095798 | F32=1206.8244683145372 | G32=1519.6485536365037 | H32=1804.638935022411 | I32=2035.8597848131967 | J32=2183.1127972317527 | K32=2407.201154644394
+C33='Operating payables' | E33=541.5520517884398 | F33=767.979207109251 | G33=1013.0990357576691 | H33=1263.2472545156877 | I33=1500.1072098623556 | J33=1697.9766200691408 | K33=1872.2675647234178
+C34='Other operating NWC' | E34=183.02045800533085 | F34=268.8160444281654 | G34=354.6154282372687 | H34=432.4971840336048 | I34=502.5907642503073 | J34=556.9554560631786 | K34=601.5118925482329
+C35='Net operating working capital' | E35=1366.8709166320914 | F35=1935.1318281364904 | G35=2480.413476879887 | H35=2948.7618509951444 | I35=3333.2783357778944 | J35=3585.2672316877934 | K35=3883.0751288081724
+C36='Increase in NWC' | E36=447.4411741663379 | F36=568.260911504399 | G36=545.2816487433968 | H36=468.34837411525723 | I36=384.51648478275 | J36=251.98889590989893 | K36=297.80789712037904
+C38='Economic unlevered FCF' | E38=939.7786163859703 | F38=1716.1391260382704 | G38=2691.4100787002926 | H38=3654.9405184280176 | I38=4645.672723013668 | J38=5382.280929103287 | K38=5836.00789384822
+C39='FCF margin' | E39=0.15404484722007372 | F39=0.19152195283085496 | G39=0.22768976172967048 | H39=0.2535235363389578 | I39=0.27730350735414416 | J39=0.2899126422325277 | K39=0.2910669580841373
+C40='Discount period' | E40=1 | F40=2 | G40=3 | H40=4 | I40=5 | J40=6 | K40=7
+C41='Present value of FCF' | E41=850.4783858696563 | F41=1405.490572296448 | G41=1994.770974871952 | H41=2451.496070379562 | I41=2819.9228157525185 | J41=2956.6008264890297 | K41=2901.215068806011
+C44='Valuation and terminal reinvestment'
+C45='Terminal NOPAT' | E45=6681.421007561942
+C46='Terminal reinvestment rate: g / ROIC' | E46=0.17500000000000002
+C47='Terminal FCF' | E47=5512.172331238602
+C48='Terminal enterprise value' | E48=78745.31901769432
+C49='PV of terminal value' | E49=39146.12699083043
+C50='PV of explicit forecast' | E50=15379.974714465177
+C51='Enterprise value' | E51=54526.10170529561
+C52='Cash and investments' | E52=2738.4
+C53='Debt carrying value' | E53=1637.4
+C54='Equity value' | E54=55627.10170529561
+C55='Diluted-share proxy' | E55=102
+C56='DCF value per share' | E56=545.3637422087804
+C57='Return vs reference price' | E57=-0.38970720760871025
+C58='Terminal share of enterprise value' | E58=0.7179337192012855
+C60='Opening receivables' | E60=520.3
+C61='Opening inventory' | E61=691.6
+C62='Normalized opening operating payables' | E62=382.8902575342466
+C63='Normalized opening operating NWC' | E63=919.4297424657535
+C65='12-month exit P/E' | E65=30
+C66='FY28 EPS used at 12-month exit' | E66=33.422207332578
+C67='12-month P/E price' | E67=1002.6662199773399
+C68='12-month return' | E68=0.12204006219417862
+C69='EPS needed for 20% return at exit P/E' | E69=35.7444
+C72='DCF uses fiscal-year-end cash/debt and full annual cash flows; no unsupported September stub estimates.'
+C73='Terminal FCF = NOPAT × (1 − g / ROIC), ensuring growth requires reinvestment.'
+C74='Adjusted EBIT already excludes acquired amortization. Add back PP&E depreciation only, not amortization again.'
+C75='SBC remains an economic expense. PP&E uses 7-year remaining life and half-year capex convention.'
+C76='New-fab capex is included in aggregate ratios; no separate FY27 revenue from the Greensboro laser ramp.'
+C77='DCF is an intrinsic-value cross-check. The 12-month P/E price uses FY28 earnings and an explicit exit multiple.'
+C80='DCF sensitivity: WACC and terminal growth'
+F81=0.025 | G81=0.03 | H81=0.035 | I81=0.04 | J81=0.045
+E82=0.085 | F82=709.4905012254519 | G82=744.1810030858218 | H82=785.6308371650133 | I82=836.0931142026329 | J82=898.9475003080913
+E83=0.095 | F83=597.7165505230461 | G83=619.7365268042313 | H83=645.2867921085349 | I83=675.3301525331708 | J83=711.2145366142387
+E84=0.10500000000000001 | F84=514.3016077065323 | G84=528.8497078706495 | H84=545.3637422087804 | I84=564.2973878380052 | J84=586.2555475810971
+E85=0.115 | F85=449.77396219164484 | G85=459.66151443329204 | H85=470.69269953276466 | I85=483.0962440616276 | J85=497.16622504046467
+E86=0.125 | F86=398.45159817629747 | G86=405.306906825124 | H86=412.84683351477884 | I86=421.1921931936433 | J86=430.4940045471941
+
+===== SHEET Comps dims=A1:R150 =====
+C2='Lumentum | Comps'
+C3='USD millions, except EPS and share prices'
+C4='Case selected' | E4='Base'
+C6='Peer comparison at September 17, 2026'
+E7='LITE' | F7='COHR' | G7='FN'
+C8='Share price' | E8=893.61 | F8=295.98 | G8=380.92
+C9='FY27 adjusted EPS consensus' | E9=21.67 | F9=9.42 | G9=18.16
+C10='FY26 revenue' | E10=3014 | F10=7118.2 | G10=4641.097
+C11='FY26 CFO' | E11=751.4 | F11=79.5 | G11=256.725
+C12='FY26 cash capex' | E12=451.3 | F12=1102.9 | G12=252.503
+C13='Cash + short-term investments' | E13=2738.4 | F13=1987 | G13=875.055
+C14='Debt (excluding leases)' | E14=1637.4 | F14=3222.2 | G14=0
+C16='Price / FY27 adjusted EPS' | E16=41.23719427780341 | F16=31.420382165605098 | G16=20.975770925110133
+C17='Reported CFO less cash capex' | E17=300.09999999999997 | F17=-1023.4000000000001 | G17=4.222000000000037
+C18='Net cash (debt)' | E18=1101 | F18=-1235.1999999999998 | G18=875.055
+C21='Consensus is an August snapshot. Different growth, accounting and business mix prevent equal-multiple assumptions.'
+H23='Sources'
+H24='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+H25='https://ir.coherent.com/news-releases/news-release-details/coherent-corp-reports-fourth-quarter-and-full-year-fiscal-2026'
+H26='https://investor.fabrinet.com/news-releases/news-release-details/fabrinet-announces-fourth-quarter-and-fiscal-year-2026-financial'
+H27='https://stockanalysis.com/stocks/lite/forecast/'
+H28='https://stockanalysis.com/stocks/cohr/forecast/'
+H29='https://stockanalysis.com/stocks/fn/forecast/'
+H30='https://stockanalysis.com/stocks/fn/history/'
+H31='https://stockanalysis.com/stocks/cohr/history/'
+H32='https://stockanalysis.com/stocks/lite/history/'
+
+===== SHEET Actuals dims=A1:R150 =====
+C2='Lumentum | Actuals'
+C3='USD millions, except EPS and share prices'
+C4='Case selected' | E4='Base'
+C6='Reported inputs and dated market data'
+E7='FY:25' | F7='FY:26' | G7='Q4:26' | H7='Source'
+C8='Revenue' | E8=1645 | F8=3014 | G8=1006.3 | H8='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C9='Components' | E9=1116.3 | F9=2005.6 | G9=649.4 | H9='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C10='Systems' | E10=528.7 | F10=1008.4 | G10=356.9 | H10='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C11='Adjusted gross margin' | E11=0.347 | F11=0.46 | G11=0.504 | H11='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C12='Adjusted operating profit' | E12=159.4 | F12=897 | G12=368.3 | H12='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C13='Adjusted EPS' | E13=2.06 | F13=8.67 | G13=3.23 | H13='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C14='Operating cash flow' | E14=126.3 | F14=751.4 | H14='https://www.sec.gov/Archives/edgar/data/1633978/000162828026057358/lite-20260627.htm'
+C15='Cash capex' | E15=231 | F15=451.3 | H15='https://www.sec.gov/Archives/edgar/data/1633978/000162828026057358/lite-20260627.htm'
+C16='Depreciation' | E16=104.3 | F16=128.8 | H16='https://www.sec.gov/Archives/edgar/data/1633978/000162828026057358/lite-20260627.htm'
+C17='Acquired intangible amortization' | E17=149.7 | F17=135.7 | H17='https://www.sec.gov/Archives/edgar/data/1633978/000162828026057358/lite-20260627.htm'
+C18='Stock compensation' | E18=177.2 | F18=170.2 | H18='https://www.sec.gov/Archives/edgar/data/1633978/000162828026057358/lite-20260627.htm'
+C19='Cash and short-term investments' | E19=877.1 | F19=2738.4 | H19='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C20='Debt carrying value' | E20=2573.2 | F20=1637.4 | H20='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C21='Accounts receivable' | E21=250 | F21=520.3 | H21='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C22='Inventory' | E22=470.1 | F22=691.6 | H22='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C23='Accounts payable (includes capex)' | E23=225.2 | F23=567.4 | H23='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C24='Net PP&E' | E24=726.4 | F24=1159.1 | H24='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C25='Adjusted diluted shares' | E25=71.2 | F25=90.2 | G25=101.1 | H25='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C29='Reference price: Sep 17 close' | F29=893.61 | H29='https://stockanalysis.com/stocks/lite/history/'
+C30='FY27 EPS consensus: Aug 31 snapshot' | F30=21.67 | H30='https://stockanalysis.com/stocks/lite/forecast/'
+C31='FY27 revenue consensus' | F31=6320 | H31='https://stockanalysis.com/stocks/lite/forecast/'
+C32='Q1 revenue guidance low' | F32=1225 | H32='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C33='Q1 revenue guidance high' | F33=1275 | H33='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C34='Q1 EPS guidance low' | F34=4.05 | H34='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C35='Q1 EPS guidance high' | F35=4.35 | H35='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C36='Q1 adjusted operating margin low' | F36=0.395 | H36='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C37='Q1 adjusted operating margin high' | F37=0.405 | H37='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C40='USD millions, except share prices and EPS. Sources accessed September 18, 2026.'
+C41='Cash capex excludes the $38m Greensboro business acquisition; no future acquisitions modeled.'
+C42='GAAP FY26 loss includes a $7.76bn noncash debt conversion charge; excluded from operating forecasts.'
+
+===== SHEET Evidence dims=A1:R150 =====
+C2='Lumentum | Evidence'
+C3='USD millions, except EPS and share prices'
+C4='Case selected' | E4='Base'
+C6='Historical safety announcements'
+C7='Event / claim' | E7='Evidence and interpretation' | F7='Source 1' | G7='Source 2'
+C8='September 2023: Anthropic RSP' | E8='Conditional training pause if safeguards fail. November 2024 AWS partnership added $4bn, total $8bn. Financing, not capex.' | F8='https://www.anthropic.com/news/anthropics-responsible-scaling-policy' | G8='https://www.anthropic.com/news/anthropic-amazon-trainium'
+C9='November 2023: Bletchley Declaration' | E9='Risk coordination coexisted with Microsoft cash PP&E rising $28.1bn FY23 to $44.5bn FY24 (+58%). Fiscal window overlaps event.' | F9='https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023' | G9='https://www.microsoft.com/en-us/Investor/earnings/FY-2024-Q4/cash-flows'
+C10='May 2024: Seoul commitments' | E10='Extreme cases require no development/deployment without mitigation. Microsoft cash PP&E rose $44.5bn FY24 to $64.6bn FY25 (+45%).' | F10='https://www.gov.uk/government/publications/frontier-ai-safety-commitments-ai-seoul-summit-2024/frontier-ai-safety-commitments-ai-seoul-summit-2024' | G10='https://www.microsoft.com/en-us/Investor/earnings/FY-2025-Q4/cash-flows'
+C11='Interpretation' | E11='These overlapping examples reject inevitability of contraction. They are not independent causal estimates or training-only measures.'
+C12='September 2026 proposal' | E12='Explicit training-compute restrictions are discussed. Historical commitments are weaker analogues; no zero-impact coefficient assumed.' | F12='https://darioamodei.com/post/we-must-pace-the-frontier'
+C13='Components / advanced lasers' | E13='Q4 components $649.4m; demand for ultra-high-power lasers, ELS and NPO supports content growth. No disclosed SKU sales split.' | F13='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C14='Systems / modules / OCS' | E14='Q4 systems $356.9m; 1.6T module adoption and optical switching are cited growth drivers. Scenario growth is not confirmed backlog.' | F14='https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx'
+C15='NVIDIA agreement' | E15='Nonexclusive multi-year purchase commitment, capacity rights and $2bn investment. No public quarter-by-quarter guaranteed revenue.' | F15='https://nvidianews.nvidia.com/news/nvidia-announces-strategic-partnership-with-lumentum-to-develop-state-of-the-art-optics-technology'
+C16='Greensboro timing' | E16='Reported laser production target mid-2028 is beyond the holding horizon. Factory funding is not current earnings.' | F16='https://www.marketwatch.com/story/lumentum-sees-sales-more-than-double-as-ai-demand-swells-6ebe6ef1'
+C17='Operational risk' | E17='Concentration, supply constraints, yields and customer cancellations remain. Strong profitability does not establish least operational risk.' | F17='https://www.sec.gov/Archives/edgar/data/1633978/000162828026057358/lite-20260627.htm'
+C18='AI-use log' | E18='AI retrieved sources, calculated scenarios and wrote formulas. Forecasts are authored assumptions; no primary research or management interviews.'
+C19='Corrections from earlier discussion' | E19='Combined datacenter/communications is not pure AI exposure; historical investment growth does not prove zero causal effect.'
+C20='Unresolved data' | E20='Training/inference split, product units/ASPs, contract cancellation terms and exact current diluted shares remain unavailable.'
+C21='Accounting limitation' | E21='Cash-flow proxy is not a full GAAP three-statement forecast. Opening operating AP is normalized to avoid capex-payable contamination.'

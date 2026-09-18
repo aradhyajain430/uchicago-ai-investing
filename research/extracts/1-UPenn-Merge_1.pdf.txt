@@ -1,0 +1,575 @@
+pages=22 file=1-UPenn-Merge (1).pdf
+
+===== PAGE 1 =====
+Sprouts Farmers Market (NASDAQ: SFM) | Long Recommendation
+The Wharton School of Business | W&M 2021 Stock Pitch Competition 
+Pitched Price: $24.05 | Probability-Weighted Price Target Price: $33.27 | Implied Upside: 38.3%
+AYINA ANYACHEBELU, MACY HUANG, CHARITHA MOPARTHY, BHAVYA SHAH
+
+
+===== PAGE 2 =====
+Currently in 23 states, the company aims to scale through at least 10% unit 
+growth annually from 2022, and achieving cash on cash returns of 40% for 
+new stores.
+Business Overview
+Key Value Drivers
+Geographic Presence
+2
+Bearish Market Sentiment
+Stock Chart Analysis
+SFM sources fresh produce from hundreds of local suppliers, achieving flexible 
+and decentralized purchasing that allows them to undercut its competitors on 
+cost.
+Buyer Power
+Two new distribution centers  incoming through 2021 to help with store 
+growth plans by having stores within 250 miles of DCs to optimize supply 
+chain efficiencies.
+Infrastructure Build
+Expansion Whitespace
+Founded in 2002, Sprouts Farmers Market is a Phoenix- based grocery store with the mission of providing fresh produce at the heart of the store. 
+Its products are targeted towards purpose-driven people that value organic, plant-based and gluten-free ingredients. 
+The store count is only 361 out of an estimated potential of 1,200 store count 
+(30%). SFM has yet not yet fully expanded  into the northern part of the U.S. 
+
+
+===== PAGE 3 =====
+Industry Overview
+Industry Analysis using Porter’s 5 Forces
+Competitive Landscape
+3
+Recent Trends
+Sprouts’ Economic Moat
+Low Cost
+Health Focus
+Threat of New Entrants (Low): Need high capital to open supermarket, 
+limited access to distribution channels & ability to competitively price w/o 
+scale, difficult to differentiate offering & penetrate existing brand loyalty 
+Threat of Substitutes (High): Lots of substitute products, low switching 
+costs, and hard to differentiate products bc mostly commodities/produce
+Bargaining Power of Suppliers (Low): High # of growers, vendors, & 
+food manufacturers and supermarkets can easily substitute products 
+Bargaining Power of Buyers (High): Low switching costs, high 
+substitution ability, high price sensitivity, and high information availability
+Competitor Rivalry (High): Large # of industry players, moderate levels 
+of customer loyalty, moderate levels of differentiation b/w players & 
+aggressive competition at each level, and low customer switching costs
+Brand Name-  notoriety for healthy 
+products @ low prices, strong 
+private label, unique products
+Cost Advantage- decentralized buying 
+structure w/ a diversified sourcing strategy 
+= high negotiation power w/ suppliers  
+Efficient Scale- strategic distribution centers, 
+more store density = lower marketing expense 
+& increased brand awareness
+Rising demand for natural & organic products: More consumers than 
+ever before (45% in 2019) are actively focused on making healthier dietary 
+choices by seeking out natural & organic foods  
+More robust eCommerce offerings: COVID has accelerated the 
+adoption and growth of grocery store eCommerce offerings (online 
+grocery penetration is expected to reach b/w 51-57% in 2021) 
+Accelerated rollout of premium & private-label products: Retailers 
+are increasingly planning to use  store brands and premium items within 
+their brands to differentiate their grocery selections and invite new and 
+compelling products like meal solutions and kits (20% of sales growth in 
+private label came from premium products in 2020) 
+Sprouts operates in the $658B grocery store industry, specifically in the $219B natural & organic sector growing @ 6-7% YoY.
+
+
+===== PAGE 4 =====
+4
+Thesis Point 1
+Sprouts’ expansion to new geographic locations, especially in Florida, through smaller format 
+stores will lead to higher ROI. Furthermore, its new distribution centers will result in major 
+cost-cutting in transportation costs and increased flexibility in seasonal buying. 
+Thesis Point 2
+SFM’s private label product growth will lead to higher margins & increased customer loyalty. 
+Thesis Point 3
+Sprouts has been aggressively building its online community and e-commerce capabilities and 
+transitioning to investing in higher-return digital ad campaigns. 
+Investment Thesis Summary
+Base Case
+$34.95
+Bull Case
+$37.59
+Bear Case
+$25.22
+4.8% upside
+45.03% upside
+56.30% upside
+The market is undervaluing SFM’s expansion, private label, & digital business 
+strategies.
+Information
+Edge
+1) Search trend data (from Google Trends), 2) Independent cost cutting calculations (derived 
+from data in 8K & 10K reports), and 3) Customer sentiment internet analysis (data from YT, 
+Reddit, Instagram, FB, blogs)
+
+
+===== PAGE 5 =====
+5
+Thesis 1: Improved ROI and Cost Cutting 
+Sprouts’ expansion to new geographic locations, especially in Florida, through smaller format stores will lead to 
+higher ROI. 
+Sprouts is expanding in the ripest market
+Sprouts will cut major costs with new small stores
+Larger Florida market from competitors’ bankruptcies in Florida
+- Sprouts is opening 20 new stores in 2021, 10 of which will be 
+located in Florida.  
+- Our analysis of Google Trends data shows that most searches 
+related to Sprout’s products such as “fresh produce” or “Farmer’s 
+Market” correlate with states where Sprouts is expanding. 
+- In 2020, major competitors Lucky’s Market and Earth Fare announced the closure of their stores in 
+Florida (20 of 21 Lucky’s Market stores and all Earth Fare stores).
+- Sprouts has the better unique private label products, track record, and financial health to expand in 
+Florida. With these two speciality grocers exiting Florida, Sprouts will be able to capture a larger share of 
+the less saturated market. 
+- Moreover these bankruptcies provide Sprouts with access to cheap real estate/discounted leases that fit 
+their more profitable new, small box store design.
+- Sprouts is returning to 
+small 
+box 
+stores 
+of 
+21K-25K square feet for its 
+new stores.
+- The new smaller sized 
+stores are expected to have 
+similar revenue while cutting
+build-up costs from $4m to $3.2 m. We predict that this will 
+result in a 20% reduction in the $0.5m operating expenses per 
+store due to the smaller store’s less focus on deli and salad bars. 
+Sprouts’ new stores are expected to yield 40% cash on cash 
+returns over 4 years. This shift will increase the profitability and 
+productivity of stores.
+
+
+===== PAGE 6 =====
+6
+Thesis 1: Improved ROI and Cost Cutting 
+Sprouts’ new distribution centers will result in major cost-cutting in transportation costs and increase flexibility 
+in seasonal buying. 
+Reductions in Transportation Costs
+- In 2021, Sprouts is opening 2 new distribution centers in Aurora, 
+Colorado and Orlando, Florida which will create a supply chain within 
+250 miles of the majority of stores. 
+- Based on estimations that Sprouts will reduce nearly 3000 metric tons 
+of carbon emissions, we calculated that Sprouts will save 
+$33,745,382.85 on transportation costs. 
+- The new distribution centers will also enable more local and seasonal 
+buying. Purchasing produce from small, local farmers will give Sprouts 
+greater bargaining power and reduce costs. At the same time, their 
+expansion will enable them to use the economies of scale of their 
+centralized buying team to procure  large quantities of specific produce 
+categories at cheaper prices.
+-  Sprouts has plans to build a distribution center in Philadelphia in 2022. This DC 
+would reduce distance between the Philadelphia store and a DC by 778 miles which we 
+equate to 778 X 1.82= $1416.74 in savings each way.
+- Currently, the street is only taking the 2021 DCs into consideration. Pricing in the 
+immense cost reduction from  Sprouts strategic DC expansion now will result in a 
+significant upside. 
+(Source: American Transportation Research Institute)
+Lower Costs of Produce Procurement
+Additional Cost-Saving DC in 2022
+
+
+===== PAGE 7 =====
+7
+Thesis 2: Private Label Product Growth 
+SFM’s private label product growth will lead to higher margins & increased customer loyalty. 
+Sprouts’ Strategy & Private Label Growth
+Trader Joe’s   Case Study
+- Trader Joe’s has one of the industry’s highest sales/sq foot & has 
+the best in-class private label products & fierce customer loyalty 
+- Similar to Sprouts, Trader Joe’s also…
+1)
+Has no regular promotions and employs EDLR 
+2)
+Has a smaller store format 
+3)
+Employs managed store growth to avoid cannibalization
+4)
+Utilizes SKU Optimization
+5)
+Innovates their products consistently by finding niche 
+specialty products other brands don’t make and creating them 
+with their own private label 
+- What is Sprouts doing to further replicate Trader Joe’s success?
+1)
+Cutting back on traditional commodity price promotions & 
+loss leaders 
+2)
+Putting an emphasis on display & presentation and promoting 
+a discovery driven treasure hunt experience 
+3)
+Offering free samples 
+4)
+Paring down prepared food & dairy offerings 
+5)
+Bolstering their private label strategy 
+6)
+Focusing on selling a unique assortment of products that can’t 
+be found at other conventional supermarkets 
+7)
+Closely identifying and aligning with their target customer 
+8)
+Amplifying their fresh produce heritage (staying true to roots)
+9)
+Addressing product waste and shrink with better inventory 
+management and other capability improvements 
+- Private label product lines accounted for 16% of total revenue in FY 
+2020 and are projected to generate ~20% of total revenue over the next 
+few years
+- Diversity of private label products has also been increasing with the 
+collection growing by ~25% from last year’s selection 
+- Private label products tend to be higher margin than SFM’s other 
+goods and also work to foster higher customer loyalty as can be seen 
+with the success of Trader Joe’s private label line because…
+1)
+Selling store brand goods does not require traditional slotting, 
+marketing, and middleman fees that are needed to stock 
+national brands 
+2)
+Customers have to come to your store for your store brand 
+products driving foot traffic especially when they perceive that 
+your store brand sells quality & unique products 
+- SFM has hired Doug Rauch, a former Trader Joe’s executive, to their 
+Board of directors to help guide their private label strategy as they 
+aspire to become a “health focused” Trader Joe’s 
+- SFM already has an above industry average customer loyalty with a 
++65 net promoter score compared to the average +51 and following 
+TJ’s footsteps with private label can help put them over the top
+- This is an optimal time to double down on private label as the 
+pandemic driven recession drives more people to sample private label 
+products and consumer sentiment remains favorable (80% of 
+shoppers believe private label is as good /better than national brands) 
+
+
+===== PAGE 8 =====
+8
+Thesis 3: Dedication to Digital Transformation  
+Sprouts has been aggressively building its online community and e-commerce capabilities, and transitioning to 
+a higher ROI digital ad spending. 
+Health Enthusiast Community 
+Online Recipes + One Click Shopping
+Sprouts offers recipe blogs online with its ingredients listed with a 
+one-click shopping option. 
+Featured on popular health enthusiast vloggers (>1.3 mn subscribers), 
+Sprouts has a growing community of “health enthusiast” and “experience 
+seeker” customers. Vloggers have filmed “Spouts Hauls” with views (289k), 
+compared to Kroger hauls (70k), Publix hauls (74k), and Whole Food Hauls 
+(229k). 
+Robust E-Commerce Opportunity
+Branding and Advertising
+Significant whitespace fo SFM to introduce target customers.
+Confirmed ad generated views rose from 21 mn to 70 mn when 
+SFM transitioned from printed flyers to digital ads.
+
+
+===== PAGE 9 =====
+9
+Variant Perception 
+Street View
+Our View
+x
+x
+x
+x
+o
+o
+o
+o
+Pullback in promotional activity is unsustainable, which will 
+result in comp and margin degradation.
+Routine promotional activity is no longer necessary as the 
+company transitions to EDLP with new management team 
+members coming from Walmart. 
+Sprouts operates in an increasingly competitive grocery 
+market where conventional grocers will begin to expand 
+fresh offerings.
+Sprouts unique branding and strengthening relationships 
+with suppliers allows Sprouts to achieve economies of scale 
+that conventional grocers can’t replicate. 
+Groceries can only enjoy a temporary boost from covid, 
+and reopening will cause purchases to decrease.
+Consumer eating habits have transitioned to fresher food 
+products, a trend that is here to stay. 
+SFM’s growth will slow down and repositioning will take 
+time, leading to decreasing comps in FY 21.
+Currently operating in 23 states, SFM’s plan to open 10% 
+new stores every year in emerging markets and reduce 
+store size will improve the company’s ROIC and unit 
+economics. 
+
+
+===== PAGE 10 =====
+10
+Catalysts and Risks
+CATALYSTS
+•
+Sprout’s new, in-store innovation centers as well as its unique Online Recipe + One Click 
+Shopping feature will grow its online customer base of health-focused innovation seekers 
+with its frictionless consumer experience which will bolster consumer loyalty.
+•
+The expertise of Sprouts’ new management members will grow of its private label business 
+and drive increased ROI by successful implementation of everyday low pricing 
+strategies/fewer ads strategy.
+•
+We expect Sprouts’ redesigned small box stores to increase sales per square foot based on 
+consumer surveys while driving down operating costs.
+RISKS
+•
+Publix which has majority market share in Florida is also taking advantages of Earth Fare and 
+Lucky  Market’s exit to purchase new real estate for expansion of stores that could compete 
+with Sprouts’ new stores.
+•
+After seeing margin compression in 2019, it is uncertain whether management expectations 
+of a 4.8% EBIT margin can be achieved in 2021, especially with the imminent threat of a 
+minimum wage hike and the rising commodity costs across the industry 
+•
+SFM is decreasing print promotion and commodity driven promotional events in its stores 
+when traffic has been negative, which may further discourage shoppers & hurt sales growth
+
+
+===== PAGE 11 =====
+11
+Valuation Summary
+Sensitivity Analysis
+Our Estimates vs Consensus
+Driven by 10% annual store growth following 2021, a rise in sales per square foot, and COGS deleveraging due to DCs and improved supply 
+chain management, we value SFM at $33.27 with an implied upside of 38.3% (Last close 3/18/21:  $24.05)
+Methodology & Assumptions
+Cases & Price Targets
+-
+Our revenue build was based off the performance of 
+new and old stores using sales per square foot as a 
+performance indicator for the new smaller box stores 
+and SSS as a driver for older stores. 
+-
+To model SSS and the new store schedule, we backed 
+out historical rates from reported KPIs and used the 
+2018-2020 store schedules to estimate the proportion 
+of stores opened each quarter.
+-
+Major assumptions in our cost build included gradually 
+deleveraging COGS a total of 200 bps by 2023 due to 
+DCs, shrink reduction initiatives, and improved 
+produce sourcing. 
+
+
+===== PAGE 12 =====
+12
+Appendix: Management & Culture
+Scott Neal -- Chief Fresh Merchandising Officer  
+(since June 2020)
+•
+25+ years of retail experience – Senior vice 
+president and general merchandise manager for 
+the fresh food division of Walmart U.S
+Jack Sinclair -- CEO  (since June 2019)
+•
+35+ years of retail/grocery experience – recent 
+CEO of 99 Cents Only Stores and previously 
+Executive VP of Grocery Division of Walmart
+•
+“Jack is a proven CEO with an outstanding track 
+record in grocery and retail merchandising.” - Jack 
+Fortunato (Chairman)
+•
+ “It's not about coming in as a cashier and staying as a cashier. It's also promoting people into higher-paying roles as well. in 2020, we 
+promoted about 7,200 team members and we filled 72% of our store manager positions with internal candidates and we're really proud of 
+that. “ - Denise Paulonis (CFO)
+•
+“Our commitment to friendly service doesn’t stop at our stores. We pledge to be a good neighbor in every community we serve through 
+volunteer work and local event support.” - Company Website
+•
+“Sprouts prides itself on being a green company. We compost our produce. We don't just dump waste . I worked at Kroger for a while but I 
+couldn't handle all the waste...Sprouts donates weekly to the poor be it foods or soaps and shampoos.” - Sprouts Employee, Fort Worth 
+Texas
+•
+Sprouts has been shifting to a balance of 
+everyday accessible pricing and fewer ads, a 
+strategy perfected by Walmart where their 
+key management previously held positions.
+•
+Sprouts new Chief Marketing Officer 
+Gilliam Phipps is a former Kroger private 
+label specialist. His expertise will be 
+invaluable to Sprouts private label expansion 
+strategy.
+•
+Sprouts executives receive performance- 
+based cash bonuses which incentivizes their 
+commitment to the country’s growth. 
+•
+About 40-50% of their salary bonus is 
+based on reaching Adjusted EBITDA and 
+comparable store sales growth benchmarks, 
+which makes achieving operational efficiency 
+in their best interest. There has also been 
+recent insider purchasing activity.
+Key Management
+Advantages
+Culture
+Recent Departures:  Ex-CEO Amina Meredia (2018), Ex-CFO Brad 
+Lukow (2019), Ex-COO Jim Nielsen (2020)
+
+
+===== PAGE 13 =====
+13
+Appendix: Revenue Build - Store Schedule (in ks)
+Revenue Build - Store Schedule (Pro Forma)
+
+
+===== PAGE 14 =====
+14
+Appendix: Revenue Build - New Store Waterfall
+
+
+===== PAGE 15 =====
+15
+Appendix: Revenue Build - New Store Square Feet Waterfall
+
+
+===== PAGE 16 =====
+16
+Appendix: Revenue Build - New Store/Small Box Revenue (in ks)
+Revenue Build - Total Revenue
+
+
+===== PAGE 17 =====
+17
+Appendix: Cost Build (in ks)
+Cost Build (Pro Forma)
+
+
+===== PAGE 18 =====
+18
+Appendix: NWC Schedule (in ks)
+
+
+===== PAGE 19 =====
+19
+Appendix: DCF Build (in mns)
+
+
+===== PAGE 20 =====
+20
+Appendix: Comps Table
+
+
+===== PAGE 21 =====
+Sprouts Farmers Market 
+ 
+Ticker:​ SFM (NASDAQ) 
+Last Close:​ $24.01 
+FY 20 Revenue:​ 6468.8 mn  
+ 
+Enterprise Value:​ 4133.7 mn  
+FY 2020 EBITDA:​ 515.8 mn 
+Shares Outstanding:​ 117.95 mn 
+ 
+P/E:​ 9.6x 
+EV/TTM EBITDA: ​7.0x 
+Market Capitalization:​ 2736.7 mn 
+Business Overview 
+Founded in 2002, Sprouts Farmers Market is a Phoenix- based grocery store with the mission of providing fresh produce at the heart of 
+the store. Its products are targeted towards purpose-driven people that value organic, plant-based and gluten-free ingredients. Currently, 
+Sprouts operates 363 stores in 23 states nationwide, and plans to open ~30 stores annually until it reaches the total targeted store 
+account of 1,200 stores. Its future expansion strategy includes developing smaller stores for better unit economics, geographic store 
+expansion from the southern states to the north, driving efficiencies in its fresh supply chain, and increasing its ecommerce presence.  
+ 
+Industry Overview 
+SFM operates in the highly competitive and fragmented grocery store industry worth over $658B, which includes large conventional 
+independent and chain supermarkets, warehouse clubs, discount stores, and natural & organic and other specialty food retailers in both 
+online and brick & mortar format. In particular, SFM is positioned in the $219B natural & organic industry that has been growing at a 
+rate of 6-7% annually. Rather than competing directly with other natural & organic food retailers, Sprouts believes in capturing market 
+share from traditional independent and chain supermarkets. Within the grocery store industry, Sprouts directly competes with Whole 
+Foods, Trader Joe’s, Natural Grocers, and Ingles Markets and less directly with Walmart, Costco, Kroger, BJ’s Wholesale Club, Weis 
+Markets, Albertsons, Grocery Outlet, and SpartanNash. SFM successfully competes within the industry with its defensible economic 
+moat consisting of valuable intangible assets, cost advantage, and efficient scale. The Sprouts brand is known for delivering high 
+quality natural & healthy products at low prices and is only becoming stronger with the growth of its private label products. SFM also 
+employs a diversified sourcing strategy and decentralized buying structure, which enables it to bargain strongly with local suppliers and 
+offer some of the cheapest prices in the industry. As a greater density of SFM stores occupy a given region, marketing expenses drop 
+and brand awareness increases. 
+ 
+Investment Thesis:​ 1) Improved ROI and Cost Cutting: ​Sprouts is opening 20 new stores in 2021, 10 of which will be located in 
+Florida.  Our analysis of Google Trends data shows that most searches related to Sprout’s products such as “fresh produce” or 
+“Farmer’s Market” correlate with states where Sprouts is expanding. In 2020, major competitors Lucky’s Market and Earth Fare 
+announced the closure of their stores in Florida (20 of 21 Lucky’s Market stores and all Earth Fare stores). Sprouts has the better unique 
+private label products, track record, and financial health to expand in Florida. With these two speciality grocers exiting Florida, Sprouts 
+will be able to capture a larger share of the less saturated market. Moreover these bankruptcies provide Sprouts with access to cheap 
+real estate/discounted leases that fit their more profitable new, small box store design. Sprouts is returning to small box stores of 
+21K-25K square feet for its new stores.The new smaller sized stores are expected to have similar revenue while cutting build-up costs 
+from $4m to $3.2 m. We predict that this will result in a 20% reduction in the $0.5m operating expenses per store due to the smaller 
+store’s less focus on deli and salad bars. Sprouts’ new stores are expected to yield 40% cash on cash returns over 4 years. This shift will 
+increase the profitability and productivity of stores. Finally, Sprouts’ new distribution centers will result in major cost-cutting in 
+transportation costs and increase flexibility in seasonal buying. In 2021, Sprouts is opening 2 new distribution centers in Aurora, 
+Colorado and Orlando, Florida which will create a supply chain within 250 miles of the majority of stores. Based on estimations that 
+Sprouts will reduce nearly 3000 metric tons of carbon emissions, we calculated that Sprouts will save $33,745,382.85 on transportation 
+costs. Sprouts has plans to build a distribution center in Philadelphia in 2022. This DC would reduce distance between the Philadelphia 
+store and a DC by 778 miles which we equate to 778 X 1.82= $1416.74 in savings each way. Currently, the street is only taking the 
+2021 DCs into consideration. Pricing in the immense cost reduction from  Sprouts strategic DC expansion now will result in a 
+significant upside. The new distribution centers will also enable more local and seasonal buying. Purchasing produce from small, local 
+farmers will give Sprouts greater bargaining power and reduce costs. At the same time, their expansion will enable them to use the 
+economies of scale of their centralized buying team to procure  large quantities of specific produce categories at cheaper prices. ​2) 
+Private Label Product Growth: ​SFM is expanding its private label product lines, which are higher margin than its other goods. These 
+accounted for 16% of total revenue in FY 2020 and are projected to generate ~20% of total revenue over the next few years. The 
+diversity of private label products has also been increasing and grew by ~25% from last year’s selection. Additionally, an increase in 
+private label products can be attributed to greater customer loyalty as can be seen with Trader Joe’s. Greater customer loyalty (where 
+SFM already has a head start with a +65 net promoter score among frequent shoppers compared to an industry average of +51) 
+translates into increased gross margins over time due to customers migrating from produce to higher margin departments and larger 
+basket sizes. TJ has the best in-class private label products, which make up ~80% of the store’s total products and drive customer foot 
+traffic. They also contribute to higher margins for TJ by removing slotting, marketing, and middleman fees. SFM recently hired Doug 
+1 
+
+
+===== PAGE 22 =====
+ 
+Rauch, a former TJ executive, to help lead its private label strategy as it aspires to become a “health focused” Trader Joe’s. This is an 
+optimal time for SFM to grow its private label as the pandemic driven recession is leading more people to try it and 80% of shoppers 
+believe that private label is as good or better than national brands.​ 3) Dedication to Digital Transformation: ​Sprouts has been 
+aggressively building its online community and e-commerce capabilities and transitioning to a higher ROI targeted digital ad campaign. 
+Featured on popular health enthusiast vloggers (>1.3 mn subscribers), Sprouts has a growing community of “health enthusiast” and 
+“experience seeker” customers. Vloggers have filmed “Spouts Hauls” with views (289k), compared to Kroger hauls (70k), Publix hauls 
+(74k), and Whole Food Hauls (229k). Furthermore, Sprouts offers recipe blogs online with its ingredients listed with a one-click 
+shopping option, allowing customers to directly add grocery items into their cart. Furthermore, Sprouts transitioned from print ads to 
+weekly digital ads, which reached 49 million more confirmed views on a weekly basis. These more profitable promotions can further 
+accelerate Sprout’s advertising strategy to reach more customers, as its aided awareness still sits at 61% in comparison to 82% for its 
+specialty peers. 
+ 
+Risks and Catalysts 
+Potential risks associated with SFM stock include 1) hindrances to SFM’s expansion strategy in FL due to Publix, who is also taking 
+advantage of Earth Fare and Lucky Market’s bankruptcies, 2) margin compression in 2019 leading to questions about whether SFM 
+will meet management expectations of a 4.8% EBIT margin in 2021 with the imminent threat of a minimum wage hike and the rising 
+commodity costs across the industry ( → SFM is structurally improving margins with more efficient & smaller stores, private label 
+product growth, attribute driven products, shrink improvement, a robust omni channel offering, & smarter promotion & customer 
+targeting to address concerns), and 3) SFM’s push to decrease print marketing and commodity driven promotional events in the face of 
+negative foot traffic and reopening headwinds (→ SFM is shifting to a stronger everyday price position, cutting back on unprofitable 
+promotions, & launching targeted more effective digital campaigns, which all may create traffic headwinds in the ST, but will lead to 
+more profitable customers responding in the LT). Catalysts associated with SFM stock include 1) a growing online health enthusiast 
+community bolstering customer loyalty, 2) the rise of in-store innovation centers and unique eCommerce platform features that 
+specifically cater to profitable target customer demographics, and 3) redesigned small box stores that are projected to increase 
+sales/square ft. (as depicted in consumer surveys) and drive down operating costs.  
+ 
+Management 
+SFM boasts a highly qualified management team consisting of Jack Sinclair (Chief Executive Officer), Scott Neal (Chief Fresh 
+Merchandising Officer), and Gilliam Phipps (Chief Marketing Officer). Jack Sinclair has over 35 years of retail and grocery experience. 
+He was formerly the CEO of 99 Cents Only  and the Executive VP of Grocery Division of Walmart. Scott Neal has 25+ years of retail 
+experience and was formerly the senior vice president and general merchandise manager for the fresh food division of Walmart U.S. 
+Sprouts has been shifting to a balance of everyday accessible pricing and fewer ads, a strategy perfected by Walmart where their key 
+management previously held positions. In addition, Gilliam Phipps is a former Kroger private label and branding specialist. His 
+expertise will be invaluable to Sprouts private label expansion strategy. Sprouts executives receive performance- based cash bonuses 
+which incentivizes their commitment to the country’s growth. About 40-50% of their salary bonus is based on reaching Adjusted 
+EBITDA and comparable store sales growth benchmarks, which makes achieving operational efficiency in their best interest. There has 
+also been recent insider purchasing activity. 
+ 
+Valuation Summary:  
+Based on the base case of our valuation summary, we reached a price target of $34.95. Our revenue build was based on the performance 
+of new and old stores using sales per square foot as a performance indicator for the new smaller box stores and SSS as a driver for older 
+stores. To model SSS and the new store schedule, we backed out historical rates from reported KPIs and used the 2018-2020 store 
+schedules to estimate the proportion of stores opened each quarter. Major assumptions in our cost build included gradually deleveraging 
+COGS a total of 200BPS by 2022 due to DCs, shrink reduction initiatives, and improved produce sourcing.  
+ 
+ 
+2 

@@ -1,0 +1,127 @@
+slides=13 size=12192000x6858000
+
+===== SLIDE 1 =====
+[TICKER]: [LONG / SHORT] — Round 1 Investment Thesis
+---
+[Team name] · [Member], [Member], [Member] 
+UChicago AI-Enabled Investing Competition · September 18, 2026
+---
+
+===== SLIDE 2 =====
+[Recommendation in one sentence: we are LONG/SHORT [TICKER] to [$target], [X]% upside]
+---
+What the market priced — [the de-rating and what it assumed]
+[Drawdown: from $X on [date] to $Y on 14 Sept, a Z% move]
+[The two events the market conflated]
+[The multiple it now trades on, versus its own range]
+Our variant view — [the one thing consensus has wrong]
+[The misread, stated plainly]
+[The evidence that contradicts it, with a source and date]
+[Why the gap has not closed yet]
+How the trade gets paid — [the catalyst path and the return]
+[Catalyst 1 and date]
+[Catalyst 2 and date]
+Entry [$X] · Target [$Y] · Downside [$Z] · Return [N]% · Horizon [N] months
+---
+1
+---
+2
+---
+3
+---
+2
+---
+
+===== SLIDE 3 =====
+The 14 September sell-off priced a capex pullback the essay itself does not call for
+---
+Two unrelated events landed on the same weekend. We think the de-rating is narrative, not fundamental — and that is the trade.
+---
+3
+---
+
+===== SLIDE 4 =====
+Thesis 1 — [the claim, stated as a sentence a judge can repeat]
+---
+[One line on what the chart proves and where the data came from.]
+---
+4
+---
+
+===== SLIDE 5 =====
+Thesis 2 — [the claim, stated as a sentence a judge can repeat]
+---
+[One line on why this pillar is independent of Thesis 1 — not the same argument restated.]
+---
+Source: [ ]
+---
+5
+---
+
+===== SLIDE 6 =====
+Thesis 3 — [the claim, stated as a sentence a judge can repeat]
+---
+[One line on what this pillar adds that the first two do not.]
+---
+6
+---
+
+===== SLIDE 7 =====
+Valuation and model assumptions — [method] gives [$target], [X]% [above/below] spot
+---
+DCF as of [date]. Every assumption below ties to a numbered thesis. Estimate basis: [own / consensus / blend].
+---
+Probability-weighted target: [$   ]    |    Spot: [$   ]    |    Expected return: [   ]%
+---
+7
+---
+
+===== SLIDE 8 =====
+The other side of the trade — and the three things that would make us wrong
+---
+[One line stating the single largest risk and how we have sized or hedged against it.]
+---
+8
+---
+
+===== SLIDE 9 =====
+How and when the trade gets paid — [N] catalysts over the next [N] months
+---
+[One line on which catalyst carries the most weight and why the market is not yet positioned for it.]
+---
+9
+---
+
+===== SLIDE 10 =====
+AI-use log — where the model added leverage, and where we kept the judgment
+---
+Tools used: [Claude, ...]. Every figure below was cross-checked against a primary source; hallucinations are logged on slide 11.
+---
+10
+---
+
+===== SLIDE 11 =====
+Appendix — verification log and hallucinations found
+---
+Required disclosure: every AI-generated figure we could not verify, and every error the model made.
+---
+Source: [ ]
+---
+11
+---
+
+===== SLIDE 12 =====
+Appendix — revenue build, cost build, and scenario detail
+---
+[Estimate basis and valuation date. Flag any figure that is ours rather than consensus.]
+---
+12
+---
+
+===== SLIDE 13 =====
+Appendix — where each case sits on downside risk versus expected return
+---
+[One line on how this map informed sizing rather than simply restating the cases.]
+---
+13
+---
